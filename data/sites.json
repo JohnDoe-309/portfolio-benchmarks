@@ -1,0 +1,186 @@
+{
+  "updated": "2026-09-22",
+  "count": 20,
+  "sites": [
+    {
+      "name": "bruno-simon.com",
+      "url": "https://bruno-simon.com",
+      "who": "Creative dev",
+      "category": "Craft showpieces",
+      "last_checked": "2026-09-22",
+      "take": "A single idea executed past the point of doubt: you drive a car through the portfolio",
+      "leave": "Load cost and zero scanability for a hiring reader"
+    },
+    {
+      "name": "henryheffernan.com",
+      "url": "https://www.henryheffernan.com",
+      "who": "3D web dev",
+      "category": "Craft showpieces",
+      "last_checked": "2026-09-22",
+      "take": "The whole site runs on a 3D retro computer; the concept *is* the proof",
+      "leave": "Same: no fast path to the work"
+    },
+    {
+      "name": "dennissnellenberg.com",
+      "url": "https://dennissnellenberg.com",
+      "who": "Designer",
+      "category": "Craft showpieces",
+      "last_checked": "2026-09-22",
+      "take": "Motion as continuity between sections",
+      "leave": "Long transitions delay content"
+    },
+    {
+      "name": "aristidebenoist.com",
+      "url": "https://www.aristidebenoist.com",
+      "who": "Creative dev",
+      "category": "Craft showpieces",
+      "last_checked": "2026-09-22",
+      "take": "WebGL transitions that keep type readable",
+      "leave": "Little plain-text proof"
+    },
+    {
+      "name": "lynnandtonic.com",
+      "url": "https://lynnandtonic.com",
+      "who": "Front-end dev",
+      "category": "Craft showpieces",
+      "last_checked": "2026-09-22",
+      "take": "Redesigned yearly; the redesigns themselves became the portfolio",
+      "leave": "Hard to maintain"
+    },
+    {
+      "name": "jhey.dev",
+      "url": "https://jhey.dev",
+      "who": "CSS specialist",
+      "category": "Craft showpieces",
+      "last_checked": "2026-09-22",
+      "take": "Demos double as teaching material",
+      "leave": "Density can overwhelm"
+    },
+    {
+      "name": "cassie.codes",
+      "url": "https://www.cassie.codes",
+      "who": "SVG/animation dev",
+      "category": "Craft showpieces",
+      "last_checked": "2026-09-22",
+      "take": "Animation explained, not just performed",
+      "leave": null
+    },
+    {
+      "name": "rauno.me",
+      "url": "https://rauno.me",
+      "who": "Design engineer, Vercel",
+      "category": "Design engineers",
+      "last_checked": "2026-09-22",
+      "take": "Interaction detail as the whole personality; craft notes alongside work",
+      "leave": "No ask at all"
+    },
+    {
+      "name": "emilkowal.ski",
+      "url": "https://emilkowal.ski",
+      "who": "Design engineer",
+      "category": "Design engineers",
+      "last_checked": "2026-09-22",
+      "take": "Ships libraries people use, which is proof that needs no claim",
+      "leave": "A countdown banner reads as a funnel"
+    },
+    {
+      "name": "paco.me",
+      "url": "https://paco.me",
+      "who": "Designer/engineer",
+      "category": "Design engineers",
+      "last_checked": "2026-09-22",
+      "take": "Restraint; every line earns its place",
+      "leave": "Contact is an afterthought"
+    },
+    {
+      "name": "joshwcomeau.com",
+      "url": "https://www.joshwcomeau.com",
+      "who": "Educator",
+      "category": "Design engineers",
+      "last_checked": "2026-09-22",
+      "take": "Interactive explanations that make the skill undeniable",
+      "leave": "Heavy to build"
+    },
+    {
+      "name": "brittanychiang.com",
+      "url": "https://brittanychiang.com",
+      "who": "Software engineer",
+      "category": "Design engineers",
+      "last_checked": "2026-09-22",
+      "take": "The most-copied dev layout: sticky intro, scroll-linked experience list",
+      "leave": "Cloned so often it now reads as a template"
+    },
+    {
+      "name": "levels.io",
+      "url": "https://levels.io",
+      "who": "Indie maker",
+      "category": "Proof of work",
+      "last_checked": "2026-09-22",
+      "take": "Live revenue per product \u2014 proof nobody can dispute; the ask repeats",
+      "leave": "Tone is personal brand, not service"
+    },
+    {
+      "name": "marclou.com",
+      "url": "https://marclou.com",
+      "who": "Indie maker",
+      "category": "Proof of work",
+      "last_checked": "2026-09-22",
+      "take": "Projects listed with what each one earns",
+      "leave": "Same"
+    },
+    {
+      "name": "simonwillison.net",
+      "url": "https://simonwillison.net",
+      "who": "Engineer/writer",
+      "category": "Proof of work",
+      "last_checked": "2026-09-22",
+      "take": "Daily public work becomes an unfakeable record",
+      "leave": "Requires real cadence"
+    },
+    {
+      "name": "thesephist.com",
+      "url": "https://thesephist.com",
+      "who": "Researcher",
+      "category": "Proof of work",
+      "last_checked": "2026-09-22",
+      "take": "Dense project index; every idea has an artefact",
+      "leave": "No ask"
+    },
+    {
+      "name": "leerob.com",
+      "url": "https://leerob.com",
+      "who": "Engineer, ex-Vercel",
+      "category": "Proof of work",
+      "last_checked": "2026-09-22",
+      "take": "Fast, plain, writing-led",
+      "leave": "Contact buried in prose"
+    },
+    {
+      "name": "joshlambsystems.com",
+      "url": "https://joshlambsystems.com",
+      "who": "AI systems consultant",
+      "category": "Consultants who sell",
+      "last_checked": "2026-09-22",
+      "take": "Calendar as primary CTA; a published flat fee; a money-back guarantee tied to a concrete finding; a six-question FAQ that handles objections before the call",
+      "leave": "Heavy logo wall of employers-as-clients"
+    },
+    {
+      "name": "kamyarshah.com",
+      "url": "https://kamyarshah.com",
+      "who": "Fractional COO",
+      "category": "Consultants who sell",
+      "last_checked": "2026-09-22",
+      "take": "\"Book a 20-minute operations review\"; public rate benchmarks that qualify the buyer",
+      "leave": "Content-farm volume dilutes the offer"
+    },
+    {
+      "name": "asamby.com",
+      "url": "https://asamby.com",
+      "who": "Ops consultancy",
+      "category": "Consultants who sell",
+      "last_checked": "2026-09-22",
+      "take": "Free discovery call, productised offers",
+      "leave": "Agency gloss, little individual proof"
+    }
+  ]
+}
