@@ -20,7 +20,7 @@ what got changed because of them. Start there if you want conclusions rather tha
 | Return | Any reason to come back (writing, changelog, live data) |
 
 <!-- BEGIN:tables -->
-_201 sites, all fetched and confirmed loading on the date in each row._
+_226 sites, all fetched and confirmed loading on the date in each row._
 
 
 ## Top personal portfolios · 66
@@ -270,7 +270,7 @@ _201 sites, all fetched and confirmed loading on the date in each row._
 | [Your Personal Tech Fairy](https://yourpersonaltechfairy.com) | Bev Feldman, solo email automation consultant | Paid roadmap required before builds, fee credited; a cheap power-hour bookable directly | Testimonials carry no metrics | 2026-09-23 |
 
 
-## BITS Pilani and IIT alumni · 33
+## BITS Pilani and IIT alumni · 58
 
 
 ### Indian engineering alumni
@@ -318,6 +318,38 @@ _201 sites, all fetched and confirmed loading on the date in each row._
 | [Sri Krishna](https://skrish13.github.io/) | AI founder, ex-ParallelDots; site says undergrad at BITS Goa | Products carry real usage numbers alongside conference papers | Dense blocks, undated posts, underbuilt sections | 2026-09-23 |
 | [Suhrudh Sarathy](https://suhrudhsarathy.github.io/) | Robotics engineer; site says early-graduated from BITS Goa | Undergrad thesis presented as real research; writing treated as first-class | Homepage previews nothing; current work hidden | 2026-09-23 |
 | [Vishwas Puri](https://www.vishwaspuri.tech/) | Amazon SDE II; site states BE and MSc, BITS Pilani | Numbered sections and hard metrics like 96% autonomous resolution | Projects lack demos and why-this-matters framing | 2026-09-23 |
+
+
+### IIT
+
+
+| Site | Who | Take | Leave | Checked |
+|---|---|---|---|---|
+| [Aditya Grover](https://aditya-grover.github.io/) | Startup CTO and UCLA professor; IIT Delhi stated onsite | A single line fuses company and professorship into one identity | Awards-only news feed reads like a CV; no point of view | 2026-09-23 |
+| [Aditya Parameswaran](https://people.eecs.berkeley.edu/~adityagp/) | Berkeley professor and co-founder; IIT Bombay gold medal stated onsite | Research themes grouped before papers; expandable blocks keep a long page scannable | Placeholder text left in the HTML; borrowed URL | 2026-09-23 |
+| [Ajat Prabha](https://ajatprabha.in/) | AI founder, ex-Kong and Gojek; IIT Jodhpur in GitHub bio | The homepage is the blog: deep build narratives with zero marketing layer | Stack from 2017; the founder role is invisible | 2026-09-23 |
+| [Akshay Sharma](https://akshay326.github.io/) | Startup co-founder, ex-CTO; IIT BHU in GitHub bio | A featured-post grid puts current experiments first, with working search | Posts from 2019 still on the homepage; generic theme | 2026-09-23 |
+| [Amit Kapoor](https://amitkaps.com/) | Data-viz consultant and teacher; B.Tech IIT Delhi stated on about | A 176-word homepage where the nav is the offer — selling without a sales page | No dates, proof or rates; styling looks a decade old | 2026-09-23 |
+| [Amit Sharma](https://amitsharma.in/) | Microsoft Research principal researcher; IIT Kharagpur stated onsite | One-line mission plus tagged links to code, podcast and papers | Untouched academic template; identical to thousands of others | 2026-09-23 |
+| [Animesh Chouhan](https://animeshchouhan.com/) | Bank engineer and side-project founder; IIT Kharagpur in GitHub bio | A "currently" block plus a public vault of notes gives two depths to explore | 82-word homepage; day job and project flattened together | 2026-09-23 |
+| [Avikalp Gupta](https://avikalpg.github.io/) | Developer-tools founder, ex-Microsoft; IIT Kanpur in GitHub bio | A logo wall of past employers under a one-line identity, with a single CTA | "Tech generalist" says nothing; no dates | 2026-09-23 |
+| [Aviral Bhatnagar](https://www.ajuniorvc.com/) | Pre-seed fund founder; IIT Bombay Engineering Physics stated on about | Fund, newsletter, book and portfolio on one domain; advice turned into a product | 1.2MB homepage; the fund brand swamps the person | 2026-09-23 |
+| [Bhuvan Singla](https://bhuvansingla.com/) | Engineering lead; IIT Kanpur stated onsite | 202 words with a theme toggle, live clock and a pronunciation easter egg | No writing or projects; charm alone cannot carry it | 2026-09-23 |
+| [Chakshu Dhannawat](https://chakshu-dhannawat.github.io/portfolio/) | AI engineer in Tokyo; IIT Jodhpur stated onsite | Terminal-prompt nav and a real code snippet as the hero: shows rather than claims | Serif fights the mono aesthetic; not his own domain | 2026-09-23 |
+| [Debjyoti Paul](https://www.debjyotipaul.in/) | Meta staff research scientist; IIT Kanpur masters stated onsite | The title tag doubles as positioning: role plus specialism in one line | Loader screen, quotes, nine-anchor CV template | 2026-09-23 |
+| [Deepak Pathak](https://www.cs.cmu.edu/~dpathak/) | Skild AI CEO and CMU professor; IIT Kanpur stated onsite | One dense page carries lab, papers, students and press; a news log proves momentum | 1990s table layout on a university URL you cannot keep | 2026-09-23 |
+| [Devendra Chaplot](https://devendrachaplot.github.io/) | AI researcher, ex-Mistral; IIT Bombay stated onsite | A reverse-chronological paragraph tells a whole career in five lines | Template placeholder contact details left in source | 2026-09-23 |
+| [Jayesh Sharma](https://wjayesh.com/) | Agents engineer; IIT Bhubaneswar in GitHub bio | A Spots page and a guest login make a static site feel inhabited | Opens with a values essay instead of the work | 2026-09-23 |
+| [Karan Bansal](https://karanbansal.in/) | Head of AI at a security company; IIT Kanpur in GitHub bio | The tagline names the artifact — an agent running in Fortune 500 production | Ten nav items for one person; no dark mode | 2026-09-23 |
+| [Karan Goel](https://krandiash.github.io/) | Cartesia co-founder and CEO; IIT Delhi stated onsite | An acknowledgements section naming mentors buys credibility cheaply | Bio still reads "PhD student" years after founding the company | 2026-09-23 |
+| [Naresh Ramesh](https://ghostwriternr.me/) | Cloudflare agents engineer; IIT Kharagpur in GitHub bio | Blog, poetry and a reading list in 127 words, fast and RSS-ready | Never states what he does now or would sell | 2026-09-23 |
+| [Nikhil Kumar](https://itsniks.com/) | YC-backed founder; IIT Roorkee stated in education | A single scrolling resume that answers "who is this" immediately | Personal address and phone published; nothing since college | 2026-09-23 |
+| [Poruri Sai Rahul](https://rahulporuri.in/) | Open-source foundation CEO; IIT Madras in GitHub bio | A self-deprecating one-liner plus a Now page; text-first throughout | Default styling; no blog index | 2026-09-23 |
+| [Rajesh Jain](https://rajeshjain.com/) | Netcore founder and angel investor; IIT Bombay stated on his about page | Daily posting for 20+ years; essays indexed by series so the archive reads like a book | Sidebar clutter, signup widgets, four font families | 2026-09-23 |
+| [Shreyansh Singh](https://shreyansh26.github.io/) | Director of AI research; IIT BHU stated onsite | A numbered paper-summary series is a compounding portfolio | Same academic scaffold; the writing is buried under the bio | 2026-09-23 |
+| [Tameesh Biswas](https://tameesh.in/) | AI co-founder and CTO in Berlin; IIT Patna stated onsite | An intentionally lightweight one-pager where every claim links to its source | No dates on work items; no visual signature | 2026-09-23 |
+| [vasa](https://vasa.bio/) | Former marketplace co-founder; IIT Delhi Physics in GitHub bio | Open-source work listed with live proof links and a calendar in the intro | 335KB page; no RSS or markup control | 2026-09-23 |
+| [Yash Bavadiya](https://xevrion.dev/) | Developer relations at a YC startup; IIT Jodhpur stated onsite | Command palette, weekly log and guestbook: built to reward return visits | 323KB for 794 words; the title undersells the role | 2026-09-23 |
 
 <!-- END:tables -->
 

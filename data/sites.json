@@ -1,6 +1,6 @@
 {
   "updated": "2026-09-22",
-  "count": 201,
+  "count": 226,
   "sites": [
     {
       "name": "bruno-simon.com",
@@ -2011,6 +2011,256 @@
       "last_checked": "2026-09-23",
       "category": "alumni",
       "segment": "BITS Pilani"
+    },
+    {
+      "name": "Rajesh Jain",
+      "url": "https://rajeshjain.com/",
+      "who": "Netcore founder and angel investor; IIT Bombay stated on his about page",
+      "take": "Daily posting for 20+ years; essays indexed by series so the archive reads like a book",
+      "leave": "Sidebar clutter, signup widgets, four font families",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "IIT"
+    },
+    {
+      "name": "Aviral Bhatnagar",
+      "url": "https://www.ajuniorvc.com/",
+      "who": "Pre-seed fund founder; IIT Bombay Engineering Physics stated on about",
+      "take": "Fund, newsletter, book and portfolio on one domain; advice turned into a product",
+      "leave": "1.2MB homepage; the fund brand swamps the person",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "IIT"
+    },
+    {
+      "name": "Amit Kapoor",
+      "url": "https://amitkaps.com/",
+      "who": "Data-viz consultant and teacher; B.Tech IIT Delhi stated on about",
+      "take": "A 176-word homepage where the nav is the offer — selling without a sales page",
+      "leave": "No dates, proof or rates; styling looks a decade old",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "IIT"
+    },
+    {
+      "name": "Karan Goel",
+      "url": "https://krandiash.github.io/",
+      "who": "Cartesia co-founder and CEO; IIT Delhi stated onsite",
+      "take": "An acknowledgements section naming mentors buys credibility cheaply",
+      "leave": "Bio still reads \"PhD student\" years after founding the company",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "IIT"
+    },
+    {
+      "name": "Deepak Pathak",
+      "url": "https://www.cs.cmu.edu/~dpathak/",
+      "who": "Skild AI CEO and CMU professor; IIT Kanpur stated onsite",
+      "take": "One dense page carries lab, papers, students and press; a news log proves momentum",
+      "leave": "1990s table layout on a university URL you cannot keep",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "IIT"
+    },
+    {
+      "name": "Aditya Parameswaran",
+      "url": "https://people.eecs.berkeley.edu/~adityagp/",
+      "who": "Berkeley professor and co-founder; IIT Bombay gold medal stated onsite",
+      "take": "Research themes grouped before papers; expandable blocks keep a long page scannable",
+      "leave": "Placeholder text left in the HTML; borrowed URL",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "IIT"
+    },
+    {
+      "name": "Aditya Grover",
+      "url": "https://aditya-grover.github.io/",
+      "who": "Startup CTO and UCLA professor; IIT Delhi stated onsite",
+      "take": "A single line fuses company and professorship into one identity",
+      "leave": "Awards-only news feed reads like a CV; no point of view",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "IIT"
+    },
+    {
+      "name": "Amit Sharma",
+      "url": "https://amitsharma.in/",
+      "who": "Microsoft Research principal researcher; IIT Kharagpur stated onsite",
+      "take": "One-line mission plus tagged links to code, podcast and papers",
+      "leave": "Untouched academic template; identical to thousands of others",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "IIT"
+    },
+    {
+      "name": "Devendra Chaplot",
+      "url": "https://devendrachaplot.github.io/",
+      "who": "AI researcher, ex-Mistral; IIT Bombay stated onsite",
+      "take": "A reverse-chronological paragraph tells a whole career in five lines",
+      "leave": "Template placeholder contact details left in source",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "IIT"
+    },
+    {
+      "name": "Shreyansh Singh",
+      "url": "https://shreyansh26.github.io/",
+      "who": "Director of AI research; IIT BHU stated onsite",
+      "take": "A numbered paper-summary series is a compounding portfolio",
+      "leave": "Same academic scaffold; the writing is buried under the bio",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "IIT"
+    },
+    {
+      "name": "Tameesh Biswas",
+      "url": "https://tameesh.in/",
+      "who": "AI co-founder and CTO in Berlin; IIT Patna stated onsite",
+      "take": "An intentionally lightweight one-pager where every claim links to its source",
+      "leave": "No dates on work items; no visual signature",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "IIT"
+    },
+    {
+      "name": "Bhuvan Singla",
+      "url": "https://bhuvansingla.com/",
+      "who": "Engineering lead; IIT Kanpur stated onsite",
+      "take": "202 words with a theme toggle, live clock and a pronunciation easter egg",
+      "leave": "No writing or projects; charm alone cannot carry it",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "IIT"
+    },
+    {
+      "name": "Nikhil Kumar",
+      "url": "https://itsniks.com/",
+      "who": "YC-backed founder; IIT Roorkee stated in education",
+      "take": "A single scrolling resume that answers \"who is this\" immediately",
+      "leave": "Personal address and phone published; nothing since college",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "IIT"
+    },
+    {
+      "name": "Naresh Ramesh",
+      "url": "https://ghostwriternr.me/",
+      "who": "Cloudflare agents engineer; IIT Kharagpur in GitHub bio",
+      "take": "Blog, poetry and a reading list in 127 words, fast and RSS-ready",
+      "leave": "Never states what he does now or would sell",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "IIT"
+    },
+    {
+      "name": "vasa",
+      "url": "https://vasa.bio/",
+      "who": "Former marketplace co-founder; IIT Delhi Physics in GitHub bio",
+      "take": "Open-source work listed with live proof links and a calendar in the intro",
+      "leave": "335KB page; no RSS or markup control",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "IIT"
+    },
+    {
+      "name": "Ajat Prabha",
+      "url": "https://ajatprabha.in/",
+      "who": "AI founder, ex-Kong and Gojek; IIT Jodhpur in GitHub bio",
+      "take": "The homepage is the blog: deep build narratives with zero marketing layer",
+      "leave": "Stack from 2017; the founder role is invisible",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "IIT"
+    },
+    {
+      "name": "Akshay Sharma",
+      "url": "https://akshay326.github.io/",
+      "who": "Startup co-founder, ex-CTO; IIT BHU in GitHub bio",
+      "take": "A featured-post grid puts current experiments first, with working search",
+      "leave": "Posts from 2019 still on the homepage; generic theme",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "IIT"
+    },
+    {
+      "name": "Animesh Chouhan",
+      "url": "https://animeshchouhan.com/",
+      "who": "Bank engineer and side-project founder; IIT Kharagpur in GitHub bio",
+      "take": "A \"currently\" block plus a public vault of notes gives two depths to explore",
+      "leave": "82-word homepage; day job and project flattened together",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "IIT"
+    },
+    {
+      "name": "Karan Bansal",
+      "url": "https://karanbansal.in/",
+      "who": "Head of AI at a security company; IIT Kanpur in GitHub bio",
+      "take": "The tagline names the artifact — an agent running in Fortune 500 production",
+      "leave": "Ten nav items for one person; no dark mode",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "IIT"
+    },
+    {
+      "name": "Avikalp Gupta",
+      "url": "https://avikalpg.github.io/",
+      "who": "Developer-tools founder, ex-Microsoft; IIT Kanpur in GitHub bio",
+      "take": "A logo wall of past employers under a one-line identity, with a single CTA",
+      "leave": "\"Tech generalist\" says nothing; no dates",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "IIT"
+    },
+    {
+      "name": "Poruri Sai Rahul",
+      "url": "https://rahulporuri.in/",
+      "who": "Open-source foundation CEO; IIT Madras in GitHub bio",
+      "take": "A self-deprecating one-liner plus a Now page; text-first throughout",
+      "leave": "Default styling; no blog index",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "IIT"
+    },
+    {
+      "name": "Jayesh Sharma",
+      "url": "https://wjayesh.com/",
+      "who": "Agents engineer; IIT Bhubaneswar in GitHub bio",
+      "take": "A Spots page and a guest login make a static site feel inhabited",
+      "leave": "Opens with a values essay instead of the work",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "IIT"
+    },
+    {
+      "name": "Debjyoti Paul",
+      "url": "https://www.debjyotipaul.in/",
+      "who": "Meta staff research scientist; IIT Kanpur masters stated onsite",
+      "take": "The title tag doubles as positioning: role plus specialism in one line",
+      "leave": "Loader screen, quotes, nine-anchor CV template",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "IIT"
+    },
+    {
+      "name": "Chakshu Dhannawat",
+      "url": "https://chakshu-dhannawat.github.io/portfolio/",
+      "who": "AI engineer in Tokyo; IIT Jodhpur stated onsite",
+      "take": "Terminal-prompt nav and a real code snippet as the hero: shows rather than claims",
+      "leave": "Serif fights the mono aesthetic; not his own domain",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "IIT"
+    },
+    {
+      "name": "Yash Bavadiya",
+      "url": "https://xevrion.dev/",
+      "who": "Developer relations at a YC startup; IIT Jodhpur stated onsite",
+      "take": "Command palette, weekly log and guestbook: built to reward return visits",
+      "leave": "323KB for 794 words; the title undersells the role",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "IIT"
     }
   ]
 }

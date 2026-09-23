@@ -1,4 +1,4 @@
-# What 201 personal sites taught me
+# What 226 personal sites taught me
 
 Read alongside [README.md](README.md), which lists every site. This file is the argument.
 
@@ -73,15 +73,19 @@ a real calendar rather than a landing page.
 
 ## 4. The BITS and IIT finding: an empty lane
 
-Of 33 alumni sites, **one** carries any signal of availability, consulting or hiring. One.
+Of 58 BITS and IIT alumni sites, **four** carry any signal of availability, consulting or hiring.
+Four. One publishes workshops, one offers office hours, one puts a calendar link in the intro, one
+routes speak / advise / project. The remaining 54 are pure identity pages.
 
-Fourteen are research or engineering templates: publication list, thumbnails, a Google Scholar link.
-They are competent and nearly identical. The pattern is so consistent that the same layout appears
-across a dozen domains, which makes any deviation from it disproportionately memorable.
+Most are research or engineering templates: publication list, thumbnails, a scholar link. They are
+competent and nearly identical — the same layout recurs across a dozen domains, which makes any
+deviation from it disproportionately memorable. The most common flaw is a stale fact: a bio that
+still says "PhD student" years after founding a company, or "prefinal year student" years into a
+senior job.
 
-The agent that searched for this group reported, after checking roughly 975 GitHub profiles matching
-BITS in the bio, that BITS-alumni *founders, PMs and investors* with a real personal site — not a
-LinkedIn, not a Linktree — turned up almost nothing verifiable. The strongest example found anywhere
+A sweep of roughly 975 GitHub profiles with BITS in the bio turned up almost nothing verifiable in
+the way of BITS-alumni *founders, PMs or investors* with a real personal site — not a LinkedIn, not a
+Linktree. The IIT side has more founders, but they sell a company, not themselves. The strongest example found anywhere
 in that group is a separate **proof-of-work ledger**: a page listing, per company, what shipped and
 what moved, in reverse-chronological order with press links. It's the single most copyable idea in
 this whole corpus, and it ends without an ask, which is the group's defining weakness.
