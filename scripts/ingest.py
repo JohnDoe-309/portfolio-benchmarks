@@ -65,6 +65,27 @@ def parse_rows(text: str) -> list[dict]:
     return rows
 
 
+def ingest_multi(path: pathlib.Path) -> tuple[int, int]:
+    """A file may carry '@@ category | segment' headers and switch section mid-file."""
+    added = skipped = 0
+    current: list[str] = []
+    category = segment = ""
+    scratch = path.parent / ".section.tmp"
+    for line in path.read_text().splitlines() + ["@@ end | end"]:
+        if line.startswith("@@"):
+            if current and category:
+                scratch.write_text("\n".join(current))
+                a, s = ingest(scratch, category, segment)
+                added, skipped = added + a, skipped + s
+            current = []
+            _, _, rest = line.partition("@@")
+            category, _, segment = (x.strip() for x in rest.partition("|"))
+        else:
+            current.append(line)
+    scratch.unlink(missing_ok=True)
+    return added, skipped
+
+
 def ingest(path: pathlib.Path, category: str, segment: str) -> tuple[int, int]:
     if category not in CATEGORIES:
         sys.exit(f"unknown category {category!r}; pick one of {', '.join(CATEGORIES)}")
@@ -117,7 +138,8 @@ if __name__ == "__main__":
     ap.add_argument("--render", action="store_true")
     args = ap.parse_args()
     if args.rows:
-        a, s = ingest(args.rows, args.category, args.segment)
+        a, s = (ingest_multi(args.rows) if args.rows.read_text().lstrip().startswith("@@")
+                else ingest(args.rows, args.category, args.segment))
         print(f"added {a}, skipped {s} duplicates")
     total = render()
     print(f"README rendered with {total} sites")

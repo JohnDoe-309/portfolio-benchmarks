@@ -1,6 +1,6 @@
 {
   "updated": "2026-09-22",
-  "count": 34,
+  "count": 201,
   "sites": [
     {
       "name": "bruno-simon.com",
@@ -341,6 +341,1676 @@
       "take": "Discloses **running cost** (<$100/month) against 2,500+ hours saved, so the return is self-evident",
       "leave": "650 words of template: no constraints or failure modes",
       "segment": "Public retrospectives"
+    },
+    {
+      "name": "Antoine Wodniack",
+      "url": "https://wodniack.dev/",
+      "who": "French freelance creative developer, animation specialist",
+      "take": "Hire-me CTA above the fold; 15+ years and 140+ projects quantified in the first sentence",
+      "leave": "Binary-digit background noise; decoration delays reading what he does",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Award-winning creative"
+    },
+    {
+      "name": "Samsy (Samuel Honigstein)",
+      "url": "https://samsy.ninja/",
+      "who": "Award-winning WebGL/WebGPU graphics engineer",
+      "take": "Calls himself graphics engineer, not generalist — the running demo is the proof",
+      "leave": "Nineteen words of HTML; nothing at all without WebGL",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Award-winning creative"
+    },
+    {
+      "name": "Robin Mastromarino",
+      "url": "http://robinmastromarino.com/",
+      "who": "Paris interactive designer, WebGL portfolio",
+      "take": "WebGL-first build that gates non-supporting browsers — the site is itself the technical demo",
+      "leave": "Redirects unsupported browsers; still served over plain http",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Award-winning creative"
+    },
+    {
+      "name": "Keita Yamada",
+      "url": "https://p5aholic.me/",
+      "who": "Japanese designer-developer, generative and WebGL work",
+      "take": "Light/dark/monospaced theme switch plus FAQ and Copycats pages show a point of view",
+      "leave": "Bio trivia before any evidence of client outcomes",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Award-winning creative"
+    },
+    {
+      "name": "Niccolò Miranda",
+      "url": "https://www.niccolomiranda.com/",
+      "who": "Amsterdam interactive artist and creative developer",
+      "take": "Four named testimonials plus counted award tally beside Prada-level work",
+      "leave": "Repeating carousels stretch one page far longer than needed",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Award-winning creative"
+    },
+    {
+      "name": "Thibault Introvigne",
+      "url": "https://thibaultintrovigne.com/",
+      "who": "Fullstack developer, WebGL and Web3 experiences",
+      "take": "Work and lab kept separate, so client projects are not diluted by experiments",
+      "leave": "Web3 framing narrows him; letter-spaced hero is slow to read",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Award-winning creative"
+    },
+    {
+      "name": "Jordan Breton",
+      "url": "https://jordan-breton.com/",
+      "who": "Freelance fullstack engineer, Three.js experiences",
+      "take": "Pairs a Three.js island experience with plain SaaS claims — play plus delivery",
+      "leave": "Generic available-for-freelance line; 3D scene carries all persuasion",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Award-winning creative"
+    },
+    {
+      "name": "Tomasz Szmajda",
+      "url": "https://itomdev.com/",
+      "who": "Polish creative developer, hand-drawn 3D gallery",
+      "take": "16 dated awards, FAQ with 4-8 week timelines and fixed-price scoping — buying signals",
+      "leave": "2,500+ words of SEO-shaped prose; award list runs long",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Award-winning creative"
+    },
+    {
+      "name": "Grégory Lallé",
+      "url": "https://gregorylalle.com/",
+      "who": "French freelance creative developer, animation-led sites",
+      "take": "Per-project case routes so each build gets its own argued page",
+      "leave": "Immersive-experience positioning says little about what he owns",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Award-winning creative"
+    },
+    {
+      "name": "Francesco Michelini",
+      "url": "https://www.francescomichelini.com/",
+      "who": "Independent creative developer, 3D interaction",
+      "take": "Names the niche precisely: 3D, interaction, animation, remote worldwide",
+      "leave": "Barely 100 words of real text; everything depends on JS",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Award-winning creative"
+    },
+    {
+      "name": "Elliott Mangham",
+      "url": "https://elliott.mangham.dev/",
+      "who": "UK creative web developer, agency collaborator",
+      "take": "23x Site of the Day plus Disney and Universal named in the first line",
+      "leave": "Award-count framing repeats; little on process or engagement",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Award-winning creative"
+    },
+    {
+      "name": "Hon Tran",
+      "url": "https://www.hontran.dev/",
+      "who": "Creative developer, Awwwards jury member",
+      "take": "11 international awards plus jury status stated plainly; names brands and agencies",
+      "leave": "Stack listing reads as tooling pride, not client benefit",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Award-winning creative"
+    },
+    {
+      "name": "Jesper Landberg",
+      "url": "https://jesperlandberg.com/",
+      "who": "Swedish design engineer, Awwwards Independent",
+      "take": "77 awards broken down by body, plus exactly what he owns: architecture, animation, CMS",
+      "leave": "Only seven projects, no case depth; contact routes elsewhere",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Award-winning creative"
+    },
+    {
+      "name": "Anderson Mancini",
+      "url": "https://andersonmancini.dev/",
+      "who": "Creative developer, Three.js specialist",
+      "take": "Single clear specialism stated before anything else",
+      "leave": "Almost no server-rendered content; blank frame until bundle finishes",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Award-winning creative"
+    },
+    {
+      "name": "Gianluca Gradogna",
+      "url": "https://gianlucagradogna.com/",
+      "who": "Florence multidisciplinary designer, Awwwards winner",
+      "take": "One person covering design, advertising, code and photography — a small client's whole team",
+      "leave": "Roughly 100 words; breadth claimed, specialism unclear",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Award-winning creative"
+    },
+    {
+      "name": "Hakim El Hattab",
+      "url": "https://hakim.se/",
+      "who": "Swedish front-end developer, created reveal.js",
+      "take": "Dozens of open-source experiments, all clickable and inspectable — evidence, not screenshots",
+      "leave": "Says he's unavailable; hiring visitors hit that wall",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Award-winning creative"
+    },
+    {
+      "name": "Guillaume Gouessan",
+      "url": "https://guillaumegouessan.com/",
+      "who": "French creative developer, installations and web",
+      "take": "Client list reads as scope — Louboutin, EDF, Arte — plus physical installations",
+      "leave": "Bare project titles with no context on role or result",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Award-winning creative"
+    },
+    {
+      "name": "Pacôme Pertant",
+      "url": "https://pacomepertant.com/",
+      "who": "Paris motion and sound designer",
+      "take": "Motion plus sound treated as one craft; the site demonstrates rhythm",
+      "leave": "Zero static text; the poetic bio says little about deliverables",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Award-winning creative"
+    },
+    {
+      "name": "Léo Parpeix",
+      "url": "https://www.leoparpeix.com/",
+      "who": "French art director and interactive designer",
+      "take": "States the method up front: typography, layout, animation, 3D — a recipe clients can buy",
+      "leave": "Eight words of crawlable text; nothing survives if JS fails",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Award-winning creative"
+    },
+    {
+      "name": "Gionatan Nese",
+      "url": "https://www.gionatannese.com/",
+      "who": "Italian designer, Awwwards Developer Award",
+      "take": "Spans websites, identity and visual experiences, so one hire covers brand and build",
+      "leave": "No server-rendered copy; \"leave an impression\" says nothing",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Award-winning creative"
+    },
+    {
+      "name": "Gil Huybrecht",
+      "url": "https://gilhuybrecht.com/",
+      "who": "Independent designer and art director",
+      "take": "Names three commercial lanes so the brief writes itself",
+      "leave": "Light on proof: few named clients or outcomes",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Award-winning creative"
+    },
+    {
+      "name": "Artiom Yakushev",
+      "url": "https://www.art-yakushev.com/",
+      "who": "Creative digital designer, Webflow",
+      "take": "Nine case studies plus workflow and FAQ pages — answers \"how do we work together\"",
+      "leave": "No metrics or availability; 9,000 words to skim",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Award-winning creative"
+    },
+    {
+      "name": "Olha Lazarieva",
+      "url": "https://www.olhalazarieva.com/",
+      "who": "Web and UX/UI designer, Awwwards winner",
+      "take": "Positioning line names both craft and audience in one sentence",
+      "leave": "Almost nothing loads without JS; thin technical depth",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Award-winning creative"
+    },
+    {
+      "name": "Mat Voyce",
+      "url": "https://matvoyce.tv/",
+      "who": "UK type designer and animator",
+      "take": "Type-in-motion niche owned completely; availability sits beside the work",
+      "leave": "Social-first framing; no process or client results",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Award-winning creative"
+    },
+    {
+      "name": "Sander van Dijk",
+      "url": "https://www.sandervandijk.tv/",
+      "who": "Motion designer and director",
+      "take": "Strava, IKEA, MoMA, Google logos do the credibility work before any scroll",
+      "leave": "No awards, availability or contact — only social handles",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Award-winning creative"
+    },
+    {
+      "name": "Dan Abramov",
+      "url": "https://overreacted.io",
+      "who": "React team alum, JavaScript essayist",
+      "take": "Title-only homepage, no nav chrome; essays sorted by idea not date",
+      "leave": "Almost no wayfinding; newcomers cannot tell what he built",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Developer and design engineers"
+    },
+    {
+      "name": "Dan Luu",
+      "url": "https://danluu.com",
+      "who": "Low-level performance engineer, data-driven essayist",
+      "take": "Unstyled single column reads as confidence; every claim carries measurements",
+      "leave": "Zero typography discipline; long pages punish scanning",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Developer and design engineers"
+    },
+    {
+      "name": "Bartosz Ciechanowski",
+      "url": "https://ciechanow.ski",
+      "who": "Author of interactive physics explainers",
+      "take": "Each article is a playable simulation; one artifact a year, each unimprovable",
+      "leave": "Publishes rarely; no bio, contact or career surface",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Developer and design engineers"
+    },
+    {
+      "name": "Sam Rose",
+      "url": "https://samwho.dev",
+      "who": "Software engineer, visual systems explainers",
+      "take": "Animated draggable diagrams; one primitive taught per post",
+      "leave": "Bare list homepage hides the visual craft behind titles",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Developer and design engineers"
+    },
+    {
+      "name": "Amelia Wattenberger",
+      "url": "https://wattenberger.com",
+      "who": "Data-visualization design engineer",
+      "take": "Prototypes presented as arguments; the experiments are the resume",
+      "leave": "Experimental navigation; current role and availability unclear",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Developer and design engineers"
+    },
+    {
+      "name": "Maxime Heckel",
+      "url": "https://blog.maximeheckel.com",
+      "who": "Shader and real-time 3D web engineer",
+      "take": "Editable shader playgrounds inline; readers change code and see it instantly",
+      "leave": "Heavy WebGL pages; no compact index of work",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Developer and design engineers"
+    },
+    {
+      "name": "Samuel Kraft",
+      "url": "https://samuelkraft.com",
+      "who": "Design engineer, builds product interfaces",
+      "take": "Motion-detail case studies; components shown live rather than described",
+      "leave": "Thin on outcomes; reads as craft without impact",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Developer and design engineers"
+    },
+    {
+      "name": "Nanda Syahrasyad",
+      "url": "https://www.nan.fyi",
+      "who": "Engineer writing interactive CS explainers",
+      "take": "SVG and animation taught through scrubbable figures",
+      "leave": "Very few posts; thin about page and contact",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Developer and design engineers"
+    },
+    {
+      "name": "Steve Ruiz",
+      "url": "https://www.steveruiz.me",
+      "who": "tldraw creator, canvas software engineer",
+      "take": "Ships the artifact itself; live canvas demos do the arguing",
+      "leave": "Thin narrative; little on architecture decisions",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Developer and design engineers"
+    },
+    {
+      "name": "Rasmus Andersson",
+      "url": "https://rsms.me",
+      "who": "Designer-engineer, creator of Inter typeface",
+      "take": "Typography is the proof; project pages read like specs with versions",
+      "leave": "Dense index; assumes you already know him",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Developer and design engineers"
+    },
+    {
+      "name": "Anthony Fu",
+      "url": "https://antfu.me",
+      "who": "Vue, Vite and Nuxt core maintainer",
+      "take": "Projects ordered by real-world usage; sponsors and tools one click deep",
+      "leave": "Sheer project count blurs what is actively maintained",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Developer and design engineers"
+    },
+    {
+      "name": "Sindre Sorhus",
+      "url": "https://sindresorhus.com",
+      "who": "npm's most prolific open-source maintainer",
+      "take": "Plain page fronting apps and funding; the GitHub record carries the trust",
+      "leave": "Almost no writing; nothing explains how he works",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Developer and design engineers"
+    },
+    {
+      "name": "Daniel Roe",
+      "url": "https://roe.dev",
+      "who": "Nuxt core team lead",
+      "take": "Talks, streams and OSS listed with dates; upcoming events prove it's live",
+      "leave": "Feature-rich site adds surfaces most readers never touch",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Developer and design engineers"
+    },
+    {
+      "name": "Dominik Dorfmeister",
+      "url": "https://tkdodo.eu",
+      "who": "TanStack Query maintainer",
+      "take": "One deep series owns a topic; maintainer-level answers to real issues",
+      "leave": "Blog-only; no project, hire or identity surface",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Developer and design engineers"
+    },
+    {
+      "name": "Mitchell Hashimoto",
+      "url": "https://mitchellh.com",
+      "who": "HashiCorp co-founder, Ghostty author",
+      "take": "Sparse index that lets shipped software speak; each post a build log",
+      "leave": "No design ambition; discovery past the front page is poor",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Developer and design engineers"
+    },
+    {
+      "name": "Jim Nielsen",
+      "url": "https://blog.jim-nielsen.com",
+      "who": "Design engineer, near-daily web-craft blogger",
+      "take": "Short frequent posts that add one original thought; presence compounds",
+      "leave": "Blog-shaped only; portfolio and services live elsewhere",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Developer and design engineers"
+    },
+    {
+      "name": "Maggie Appleton",
+      "url": "https://maggieappleton.com",
+      "who": "Design engineer, visual essayist",
+      "take": "Illustrated essays plus a public garden labelling how finished each note is",
+      "leave": "Garden metaphor adds navigation overhead",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Developer and design engineers"
+    },
+    {
+      "name": "Andy Matuschak",
+      "url": "https://andymatuschak.org",
+      "who": "Ex-Apple engineer, memory-systems researcher",
+      "take": "Working notes published openly; research-in-public is the credential",
+      "leave": "Sliding panes break the back button and mobile",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Developer and design engineers"
+    },
+    {
+      "name": "Ahmad Shadeed",
+      "url": "https://ishadeed.com",
+      "who": "CSS engineer, author of Debugging CSS",
+      "take": "Owns one niche completely: hundreds of annotated CSS case studies",
+      "leave": "Book and course pitches interleave with the articles",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Developer and design engineers"
+    },
+    {
+      "name": "Eugene Yan",
+      "url": "https://eugeneyan.com",
+      "who": "Applied ML engineer, ML-systems writer",
+      "take": "Writing organised by system-design problem rather than chronology",
+      "leave": "Repeated newsletter prompts; some posts restate consensus",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Developer and design engineers"
+    },
+    {
+      "name": "Julia Evans",
+      "url": "https://jvns.ca",
+      "who": "Systems-debugging writer, Wizard Zines founder",
+      "take": "Plain HTML, enormous dated archive; trust comes from volume not polish",
+      "leave": "Design is nonexistent; nothing signals what she sells",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Developer and design engineers"
+    },
+    {
+      "name": "Tom MacWright",
+      "url": "https://macwright.com",
+      "who": "Mapbox alum, geospatial engineer",
+      "take": "Two decades of posts plus honest post-mortems; failure written as clearly as success",
+      "leave": "Personal and technical mixed; hard to skim for expertise",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Developer and design engineers"
+    },
+    {
+      "name": "Steph Ango",
+      "url": "https://stephango.com",
+      "who": "Obsidian CEO, writes on tools and files",
+      "take": "Tiny hand-written CSS, instant loads; essays outrank any product pitch",
+      "leave": "Aphoristic posts sometimes assert more than they demonstrate",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Developer and design engineers"
+    },
+    {
+      "name": "Armin Ronacher",
+      "url": "https://lucumr.pocoo.org",
+      "who": "Flask and Jinja creator",
+      "take": "Long-form on tradeoffs he personally paid for; two decades of archive",
+      "leave": "2000s layout; dated mobile typography",
+      "last_checked": "2026-09-23",
+      "category": "top",
+      "segment": "Developer and design engineers"
+    },
+    {
+      "name": "Ken Norton",
+      "url": "https://www.bringthedonuts.com/",
+      "who": "Ex-Google product lead, executive coach",
+      "take": "Named clients with titles above the fold; scale claim tied to an employer",
+      "leave": "Testimonials describe feelings; no measurable client outcome",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "PMs, operators and chiefs of staff"
+    },
+    {
+      "name": "Gibson Biddle",
+      "url": "https://www.gibsonbiddle.com/",
+      "who": "Former Netflix VP Product, workshop teacher",
+      "take": "Publishes NPS with sample size (69, n=49) — rare, checkable evidence",
+      "leave": "Workshop satisfaction stands in for product impact",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "PMs, operators and chiefs of staff"
+    },
+    {
+      "name": "Aakash Gupta",
+      "url": "https://www.aakashg.com/",
+      "who": "Full-time product writer, ex-Affirm PM",
+      "take": "Every asset carries a number; career line names company and stage",
+      "leave": "Audience size dominates; no third-party verification",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "PMs, operators and chiefs of staff"
+    },
+    {
+      "name": "Melissa Perri",
+      "url": "https://melissaperri.com/",
+      "who": "Product coach, author, board member",
+      "take": "Book sales, named enterprise clients and board seats — three proof types",
+      "leave": "Client logos without a documented engagement outcome",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "PMs, operators and chiefs of staff"
+    },
+    {
+      "name": "Itamar Gilad",
+      "url": "https://itamargilad.com/",
+      "who": "Product coach, ex-Google, frameworks author",
+      "take": "Free frameworks are the proof; a usable artifact beats a claim",
+      "leave": "Client logo wall with no case study behind it",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "PMs, operators and chiefs of staff"
+    },
+    {
+      "name": "Sachin Rekhi",
+      "url": "https://www.sachinrekhi.com/",
+      "who": "Ex-LinkedIn product lead, writer, founder",
+      "take": "Essay archive organised by topic; a stranger can test his thinking fast",
+      "leave": "Subscriber count is the only number",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "PMs, operators and chiefs of staff"
+    },
+    {
+      "name": "Casey Winters",
+      "url": "https://www.caseyaccidental.com/",
+      "who": "Growth operator: Pinterest, Grubhub, Eventbrite",
+      "take": "Blog-first, nothing for sale; dated writing is itself the credential",
+      "leave": "Homepage never names the operating wins",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "PMs, operators and chiefs of staff"
+    },
+    {
+      "name": "Dan Hockenmaier",
+      "url": "https://www.danhock.co/",
+      "who": "Faire strategy leader, marketplace writer",
+      "take": "One narrow topic makes expertise legible fast",
+      "leave": "Substack default layout; subscribers substitute for evidence",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "PMs, operators and chiefs of staff"
+    },
+    {
+      "name": "Hila Qu",
+      "url": "https://www.hilaqu.com/",
+      "who": "Growth advisor, ex-GitLab VP Growth",
+      "take": "Advisory offer, named companies and one CTA in a single screen",
+      "leave": "\"Millions of users and revenue\" — unquantified",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "PMs, operators and chiefs of staff"
+    },
+    {
+      "name": "Leah Tharin",
+      "url": "https://www.leahtharin.com/",
+      "who": "PLG product leader, advisor",
+      "take": "Peer testimonials from recognisable operators do the work fast",
+      "leave": "No case study or revenue figure behind the claims",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "PMs, operators and chiefs of staff"
+    },
+    {
+      "name": "Kyle Poyar",
+      "url": "https://www.growthunhinged.com/",
+      "who": "Growth operator, ex-OpenView partner",
+      "take": "Original benchmark surveys; he manufactures proof instead of borrowing it",
+      "leave": "Self-collected data, unaudited",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "PMs, operators and chiefs of staff"
+    },
+    {
+      "name": "Will Larson",
+      "url": "https://lethain.com/",
+      "who": "Engineering executive: Uber, Stripe, Calm, Carta",
+      "take": "Fifteen years of dated posts plus four books — a durable record",
+      "leave": "Frameworks over outcomes; no scale numbers",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "PMs, operators and chiefs of staff"
+    },
+    {
+      "name": "Wes Kao",
+      "url": "https://www.weskao.com/",
+      "who": "Maven co-founder, operator coach",
+      "take": "Specific co-founding credentials beat generic leader language",
+      "leave": "Funding and follower counts are inputs, not results",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "PMs, operators and chiefs of staff"
+    },
+    {
+      "name": "Ethan Evans",
+      "url": "https://www.ethanevans.com/",
+      "who": "Retired Amazon VP, executive coach",
+      "take": "Scope numbers anchor authority: 800+ person org, 70+ patents",
+      "leave": "Testimonials say \"insightful\"; no outcome tracked",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "PMs, operators and chiefs of staff"
+    },
+    {
+      "name": "Dave Kline",
+      "url": "https://davekline.com/",
+      "who": "Ex-Google and Goldman leader, trainer",
+      "take": "Testimonials tagged to employer names let readers verify independently",
+      "leave": "\"Real business results\" with zero before/after numbers",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "PMs, operators and chiefs of staff"
+    },
+    {
+      "name": "Molly Graham",
+      "url": "https://mollygraham.com/",
+      "who": "Ex-Facebook and Google scaling operator",
+      "take": "One memorable range — scaled organisations from 5 to 5,000",
+      "leave": "That range is the only evidence on the page",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "PMs, operators and chiefs of staff"
+    },
+    {
+      "name": "Cameron Herold",
+      "url": "https://cameronherold.com/",
+      "who": "COO coach, built 1-800-GOT-JUNK operations",
+      "take": "Owns a category label so a stranger places him instantly",
+      "leave": "Books and a Forbes quote replace client numbers",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "PMs, operators and chiefs of staff"
+    },
+    {
+      "name": "Crystal Widjaja",
+      "url": "https://crystalwidjaja.com/",
+      "who": "Startup builder and operator",
+      "take": "Deliberately bare landing page: one line, four links",
+      "leave": "So bare a stranger learns no result on-site",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "PMs, operators and chiefs of staff"
+    },
+    {
+      "name": "Emily Sander",
+      "url": "https://www.nextlevel.coach/",
+      "who": "Former COO, chief-of-staff coach",
+      "take": "Testimonials carry names, titles and locations — cheap specificity",
+      "leave": "All outcomes are \"clarity\"; nothing countable",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "PMs, operators and chiefs of staff"
+    },
+    {
+      "name": "Poppy Johnson",
+      "url": "https://www.chieflycos.com/",
+      "who": "Ex-McKinsey, chief of staff coach",
+      "take": "Niche stated in the domain and the headline: chiefs of staff only",
+      "leave": "Employer logos stand in for outcomes",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "PMs, operators and chiefs of staff"
+    },
+    {
+      "name": "Elise Kennedy",
+      "url": "https://www.yourchiefofstaff.co/",
+      "who": "Three-time chief of staff, two exits",
+      "take": "Countable career facts open the page: 3x chief of staff, 2 exits",
+      "leave": "Press logos; no client case or metric",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "PMs, operators and chiefs of staff"
+    },
+    {
+      "name": "Alicia Diamond",
+      "url": "https://aliciadiamond.com/",
+      "who": "COO and chief of staff",
+      "take": "Shows the job in verbs — translating a CEO's thinking across teams",
+      "leave": "LinkedIn quotes without company, scale or date",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "PMs, operators and chiefs of staff"
+    },
+    {
+      "name": "Thaisa Fernandes",
+      "url": "https://www.thaisafernandes.com/",
+      "who": "Senior staff TPM, chief of staff",
+      "take": "Title stack plus city does the positioning in one line",
+      "leave": "Bio only; nothing shipped, nothing to check",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "PMs, operators and chiefs of staff"
+    },
+    {
+      "name": "Kane Sherwell",
+      "url": "https://kanesherwell.com/",
+      "who": "Senior product manager, digital delivery",
+      "take": "Leads with hard deltas: 500+ launches, 400% viewership lift",
+      "leave": "Client names withheld, so deltas can't be traced",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "PMs, operators and chiefs of staff"
+    },
+    {
+      "name": "Scott Hanford",
+      "url": "https://www.scotthanford.com/",
+      "who": "Adobe growth PM, ex-InVision, ex-Uber",
+      "take": "Names a real revenue outcome and openly links a failed startup",
+      "leave": "Big-logo roles without isolating his own contribution",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "PMs, operators and chiefs of staff"
+    },
+    {
+      "name": "Hamel Husain",
+      "url": "https://hamel.dev/",
+      "who": "Independent LLM evals consultant, ex-GitHub",
+      "take": "Error analysis and eval methodology; how to instrument an LLM product",
+      "leave": "Course and cohort sales pages dominate",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "AI and automation builders"
+    },
+    {
+      "name": "Jason Liu",
+      "url": "https://jxnl.co/",
+      "who": "Instructor author, RAG consultant",
+      "take": "Turning a consulting practice into repeatable systems, published openly",
+      "leave": "Consulting funnel posts and newsletter upsells",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "AI and automation builders"
+    },
+    {
+      "name": "Chip Huyen",
+      "url": "https://huyenchip.com/",
+      "who": "AI engineering author, ex-Nvidia ML infra",
+      "take": "Stack breakdowns grounded in production deployment constraints",
+      "leave": "Book promotion and course listings",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "AI and automation builders"
+    },
+    {
+      "name": "Shreya Shankar",
+      "url": "https://www.sh-reya.com/",
+      "who": "DocETL creator, LLM data-pipeline researcher",
+      "take": "How to build and validate LLM pipelines over messy documents",
+      "leave": "Academic listings and PhD-life posts",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "AI and automation builders"
+    },
+    {
+      "name": "Philipp Schmid",
+      "url": "https://www.philschmid.de/",
+      "who": "Google DeepMind engineer, agents and MCP",
+      "take": "Runnable agent and MCP code you can paste and execute the same day",
+      "leave": "Model launch recaps and vendor summaries",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "AI and automation builders"
+    },
+    {
+      "name": "Max Woolf",
+      "url": "https://minimaxir.com/",
+      "who": "Data scientist shipping open-source AI experiments",
+      "take": "Reproducible experiments with published notebooks; honest negative results",
+      "leave": "One-off benchmark drama posts",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "AI and automation builders"
+    },
+    {
+      "name": "David Crawshaw",
+      "url": "https://crawshaw.io/",
+      "who": "Tailscale co-founder, built a coding agent",
+      "take": "How a coding agent actually works, from someone who shipped one",
+      "leave": "Sparse archive; older language-internals posts",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "AI and automation builders"
+    },
+    {
+      "name": "Thorsten Ball",
+      "url": "https://registerspill.thorstenball.com/",
+      "who": "Amp engineer, interpreter-book author",
+      "take": "Agent internals explained by building them, with code walkthroughs",
+      "leave": "Weekly link roundups and mood pieces",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "AI and automation builders"
+    },
+    {
+      "name": "Mario Zechner",
+      "url": "https://mariozechner.at/",
+      "who": "Independent developer, builds minimal agents",
+      "take": "Build logs for a minimal agent and coding-tool internals",
+      "leave": "Game-dev archive and burnout essays",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "AI and automation builders"
+    },
+    {
+      "name": "Peter Steinberger",
+      "url": "https://steipete.me/",
+      "who": "Ex-PSPDFKit founder, agent tooling",
+      "take": "Concrete agentic dev workflows, harness setups and cost monitoring",
+      "leave": "Hype-adjacent takes and legacy iOS archive",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "AI and automation builders"
+    },
+    {
+      "name": "Indragie Karunaratne",
+      "url": "https://www.indragie.com/",
+      "who": "Built an MCP debugging app",
+      "take": "Long postmortems on shipping real apps built largely by coding agents",
+      "leave": "Thin archive; decade-old posts",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "AI and automation builders"
+    },
+    {
+      "name": "Sean Goedecke",
+      "url": "https://www.seangoedecke.com/",
+      "who": "GitHub staff engineer, prolific writer",
+      "take": "Daily notes on working with agents inside large systems under constraints",
+      "leave": "Volume; AI-risk philosophising",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "AI and automation builders"
+    },
+    {
+      "name": "Den Delimarsky",
+      "url": "https://den.dev/",
+      "who": "Model Context Protocol maintainer",
+      "take": "MCP auth and spec decisions explained by the person maintaining it",
+      "leave": "Game-modding posts and old product writeups",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "AI and automation builders"
+    },
+    {
+      "name": "Xe Iaso",
+      "url": "https://xeiaso.net/",
+      "who": "Built Anubis, runs own infrastructure publicly",
+      "take": "Real self-hosted infra and honest incident writeups",
+      "leave": "Personal lore, fiction and venting posts",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "AI and automation builders"
+    },
+    {
+      "name": "Erik Bernhardsson",
+      "url": "https://erikbern.com/",
+      "who": "Modal founder, built Annoy and Luigi",
+      "take": "Quantitative side-project writeups where he scrapes, models and publishes code",
+      "leave": "Startup commentary and older retrospectives",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "AI and automation builders"
+    },
+    {
+      "name": "Jeff Geerling",
+      "url": "https://www.jeffgeerling.com/",
+      "who": "Ansible automation author, homelab tester",
+      "take": "Reproducible automation and benchmarks with published playbooks",
+      "leave": "Sponsor-driven gear reviews",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "AI and automation builders"
+    },
+    {
+      "name": "Vicki Boykis",
+      "url": "https://vickiboykis.com/",
+      "who": "ML engineer, built Viberary, anti-hype writer",
+      "take": "Embeddings from first principles plus build-and-decommission logs",
+      "leave": "Long cultural essays and mood commentary",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "AI and automation builders"
+    },
+    {
+      "name": "Geoffrey Litt",
+      "url": "https://www.geoffreylitt.com/",
+      "who": "Ink & Switch researcher, malleable software",
+      "take": "Prototypes that show the interaction pattern, not theory",
+      "leave": "Academic PDFs and research-agenda framing",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "AI and automation builders"
+    },
+    {
+      "name": "Matt Webb",
+      "url": "https://interconnected.org/home/",
+      "who": "Solo product inventor, shipped a hardware clock",
+      "take": "How an odd AI hardware product gets designed and sold by one person",
+      "leave": "Free-association and speculative-fiction posts",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "AI and automation builders"
+    },
+    {
+      "name": "Michael Lynch",
+      "url": "https://mtlynch.io/",
+      "who": "Bootstrapped solo founder publishing monthly numbers",
+      "take": "Monthly retrospectives with real revenue, traffic and failure counts",
+      "leave": "Book marketing updates and tangents",
+      "last_checked": "2026-09-23",
+      "category": "peers",
+      "segment": "AI and automation builders"
+    },
+    {
+      "name": "Ken Yarmosh",
+      "url": "https://kenyarmosh.com/",
+      "who": "Solo founder mentor and product advisor",
+      "take": "Single booking-link CTA; no price, no guarantee — the call does all qualifying",
+      "leave": "Newsletter-scale social proof substitutes for offer detail",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Fractional executives"
+    },
+    {
+      "name": "Justin McKelvey",
+      "url": "https://justinmckelvey.com/",
+      "who": "Fractional CTO and AI implementation consultant",
+      "take": "Flat prices ($2,500 assessment, $25K–$50K rescue), 30-min booking, \"fire me\" risk reversal",
+      "leave": "No availability signal; buyer can't tell if he's free",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Fractional executives"
+    },
+    {
+      "name": "Simon Wakeman",
+      "url": "https://www.simonwakeman.com/",
+      "who": "UK fractional COO, advisor, founder coach",
+      "take": "Four distinct offers let buyers self-select intensity before contact",
+      "leave": "Email-and-phone CTA, no price, no calendar",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Fractional executives"
+    },
+    {
+      "name": "Jonathan Stark",
+      "url": "https://jonathanstark.com/coaching",
+      "who": "Value-pricing coach for independent consultants",
+      "take": "$8,500 flat, application not calendar, full refund after first call, waitlist when full",
+      "leave": "Homepage buries it behind a newsletter opt-in",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Fractional executives"
+    },
+    {
+      "name": "Philip Morgan",
+      "url": "https://philipmorganconsulting.com/",
+      "who": "Positioning advisor for consulting practices",
+      "take": "Publishes a retainer floor and a revenue-share alternative",
+      "leave": "No calendar, guarantee or availability",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Fractional executives"
+    },
+    {
+      "name": "Melisa Liberman",
+      "url": "https://www.melisaliberman.com/",
+      "who": "Coach to solo independent consultants",
+      "take": "Cohort scarcity — \"spots are limited\" — with a free call as entry",
+      "leave": "1:1 price hidden; content volume dwarfs the offer",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Fractional executives"
+    },
+    {
+      "name": "Alberto Sadde",
+      "url": "https://albertosadde.com/fractional-cto",
+      "who": "Fractional CTO and technical advisor",
+      "take": "Publishes a full rate card by hour, month and equity, plus a free call",
+      "leave": "Rates framed as market ranges, not his committed number",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Fractional executives"
+    },
+    {
+      "name": "Stephan Schmidt",
+      "url": "https://www.amazingcto.com/",
+      "who": "CTO coach and fractional CTO",
+      "take": "Live availability line: \"booking 2-3 weeks out\"",
+      "leave": "No price; eight overlapping service labels blur the offer",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Fractional executives"
+    },
+    {
+      "name": "Lazar Gintchin",
+      "url": "https://ctofraction.com/",
+      "who": "Solo fractional, interim, virtual CTO",
+      "take": "Prices answered inside the FAQ, then a free consult",
+      "leave": "Range too wide to qualify; near-identical labels stacked",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Fractional executives"
+    },
+    {
+      "name": "Startup Fractional CTO",
+      "url": "https://www.startupfractionalcto.com/pricing",
+      "who": "Fractional CTO for non-technical founders",
+      "take": "Single public number — $250/hour, block discount, no minimum",
+      "leave": "Anonymous operator; form instead of a calendar",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Fractional executives"
+    },
+    {
+      "name": "April Dunford",
+      "url": "https://www.aprildunford.com/consultant",
+      "who": "Independent B2B positioning consultant",
+      "take": "Publishes workshop tiers by company stage — the price is the qualifier",
+      "leave": "All CTAs dump into one contact form",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Fractional executives"
+    },
+    {
+      "name": "Alan Weiss",
+      "url": "https://alanweiss.com/",
+      "who": "Veteran solo consultant and mentor",
+      "take": "Offer ladder from books to advisory; calendar published as availability",
+      "leave": "Homepage is a catalogue; no price, no single CTA",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Fractional executives"
+    },
+    {
+      "name": "Meghan Palmquist",
+      "url": "https://thesolopreneurcoo.com/",
+      "who": "Fractional COO for solopreneur services",
+      "take": "Full price ladder from session to audit to retainer, plus a free clarity call",
+      "leave": "No guarantee; 12-month lock-in on the retainer",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Fractional executives"
+    },
+    {
+      "name": "Alex Boch",
+      "url": "https://elseops.com/",
+      "who": "Solo fractional COO, ops and automation",
+      "take": "Risk reversal: audit free unless it finds losses exceeding its price",
+      "leave": "No published price or calendar; form-only contact",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Fractional executives"
+    },
+    {
+      "name": "Johanna Voss",
+      "url": "https://www.johannavoss.com/",
+      "who": "Fractional COO for talent agencies",
+      "take": "Narrow vertical plus a direct calendar link — qualification by specificity",
+      "leave": "No price, guarantee or availability",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Fractional executives"
+    },
+    {
+      "name": "Angie Bristow",
+      "url": "https://opselevate.com/",
+      "who": "Solo fractional COO and ops advisor",
+      "take": "Two-step ladder: paid diagnostic first, then retainer",
+      "leave": "Book button routes to a form, not a calendar",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Fractional executives"
+    },
+    {
+      "name": "JT Taylor",
+      "url": "https://notebookofacoo.com/",
+      "who": "Fractional COO for coaches and consultants",
+      "take": "Four priced tiers with direct checkout and a spots-left counter",
+      "leave": "Countdown scarcity feels manufactured",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Fractional executives"
+    },
+    {
+      "name": "Jonathan Hall",
+      "url": "https://jhall.io/",
+      "who": "Solo DevOps and delivery consultant",
+      "take": "Productised menu naming deliverables rather than hours",
+      "leave": "Newsletter outranks every paid offer; no price",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Fractional executives"
+    },
+    {
+      "name": "James Shore",
+      "url": "https://www.jamesshore.com/",
+      "who": "Independent agile transformation consultant",
+      "take": "Trigger-based positioning: \"when repeated fixes have failed\" names the buying moment",
+      "leave": "No price, guarantee or availability anywhere",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Fractional executives"
+    },
+    {
+      "name": "Kai Davis",
+      "url": "https://www.kaidavis.com/",
+      "who": "Solo marketing consultant and coach",
+      "take": "Priced rungs from a cheap script to a roadmap to monthly coaching",
+      "leave": "Low-ticket products dilute the advisory positioning",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Fractional executives"
+    },
+    {
+      "name": "Chris Monroe",
+      "url": "https://opsframework.com/",
+      "who": "Fractional COO and operations coach",
+      "take": "A named method plus one repeated CTA and stated outcome windows",
+      "leave": "Only price reference is a full-time comparison",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Fractional executives"
+    },
+    {
+      "name": "Nick Janetakis",
+      "url": "https://nickjanetakis.com/work-together",
+      "who": "Independent DevOps and Docker consultant",
+      "take": "Availability framed as capacity honesty — takes work only when he can support it",
+      "leave": "An email address is the only CTA",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Fractional executives"
+    },
+    {
+      "name": "Jeff Gothelf",
+      "url": "https://jeffgothelf.com/",
+      "who": "Independent product and OKR advisor",
+      "take": "Authority stack — five books plus a large list — qualifies before any call",
+      "leave": "Four competing CTAs; consulting offer is vague",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Fractional executives"
+    },
+    {
+      "name": "Matthew Fenton",
+      "url": "https://winningsolo.com/",
+      "who": "Coach for independent consultants",
+      "take": "Newsletter-first funnel; coaching sold only after subscribers self-identify",
+      "leave": "Coaching offer undefined and unpriced",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Fractional executives"
+    },
+    {
+      "name": "Mahan Tavakoli",
+      "url": "https://mahantavakoli.com/",
+      "who": "Solo leadership and strategy advisor",
+      "take": "Free strategy session as the single CTA on its own page — one door in",
+      "leave": "Three abstract practice areas; no price or availability",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Fractional executives"
+    },
+    {
+      "name": "Luhhu",
+      "url": "https://luhhu.com",
+      "who": "Andrew Davison, solo Zapier automation consultant",
+      "take": "Same-day quotes; \"I build, fix, and finish\" state-agnostic positioning",
+      "leave": "No published prices, case studies or guarantee",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Freelance automation and RevOps"
+    },
+    {
+      "name": "ResonateOps",
+      "url": "https://resonateops.com",
+      "who": "Francisco Salazar, solo n8n automation engineer",
+      "take": "60-day guarantee: metric missed, work continues free or money back; fixed price upfront",
+      "leave": "Prices absent; case metrics buried",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Freelance automation and RevOps"
+    },
+    {
+      "name": "MakeAutomation",
+      "url": "https://makeautomation.co",
+      "who": "Quentin, solo n8n automation consultant",
+      "take": "Published monthly and quarterly tiers; 50% at proposal, 50% at delivery",
+      "leave": "Case study has no before/after numbers",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Freelance automation and RevOps"
+    },
+    {
+      "name": "René Zander",
+      "url": "https://renezander.com",
+      "who": "Solo AI-agent implementation consultant",
+      "take": "\"Scope in 24h\" from two fields; case numbers: 73% less manual work",
+      "leave": "Hourly billing; no fixed packages published",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Freelance automation and RevOps"
+    },
+    {
+      "name": "Chris Wray",
+      "url": "https://cjwray.com",
+      "who": "Solo Make, Pipedrive and Notion consultant",
+      "take": "$150 entry offer rising to a full business OS; free 20-minute no-call audit",
+      "leave": "Upper-tier prices hidden; thin case study",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Freelance automation and RevOps"
+    },
+    {
+      "name": "Acuity AI Consulting",
+      "url": "https://www.acuityaiconsulting.com",
+      "who": "Solo senior n8n automation operator",
+      "take": "\"One senior operator, start to finish\"; builds from a published floor",
+      "leave": "No case studies or availability signal",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Freelance automation and RevOps"
+    },
+    {
+      "name": "Pineo",
+      "url": "https://pineo.com",
+      "who": "Will Andrew, solo Zapier and HubSpot consultant",
+      "take": "\"Available now\" badge under his headshot; named testimonials",
+      "leave": "No prices or guarantee; unsourced headline stats",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Freelance automation and RevOps"
+    },
+    {
+      "name": "ScottWorld",
+      "url": "https://www.scottworld.com",
+      "who": "Scott Rose, solo certified Airtable consultant",
+      "take": "Forty-plus named testimonials plus certification as the proof stack",
+      "leave": "No prices, packages or numbers; weak CTA",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Freelance automation and RevOps"
+    },
+    {
+      "name": "NocodeAssistant",
+      "url": "https://www.nocodeassistant.agency",
+      "who": "Himanshu Sharma, two-person automation shop",
+      "take": "Audit fee credited to the build; \"2–3 active projects at a time\"",
+      "leave": "\"Agency\" framing undersells a two-person reality",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Freelance automation and RevOps"
+    },
+    {
+      "name": "Notionalize",
+      "url": "https://notionalize.com",
+      "who": "Jules Gabriel Alba, solo AI and Notion consultant",
+      "take": "Full ladder published from free assessment to monthly partnership",
+      "leave": "Seven overlapping offers; conditional guarantee",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Freelance automation and RevOps"
+    },
+    {
+      "name": "On The Fly Ops",
+      "url": "https://ontheflyops.com",
+      "who": "Brett Hovanec, solo fractional RevOps consultant",
+      "take": "\"As a one-person team\" stated plainly, with four priced tiers",
+      "leave": "Multiplier claims strain credulity",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Freelance automation and RevOps"
+    },
+    {
+      "name": "OpsEthic",
+      "url": "https://www.opsethic.com",
+      "who": "Pietro Sassanelli, solo HubSpot RevOps engineer",
+      "take": "\"Built by the person you talk to\"; free audit with a 24-hour response promise",
+      "leave": "No prices; borrowed benchmarks instead of own results",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Freelance automation and RevOps"
+    },
+    {
+      "name": "The RevOps Collective",
+      "url": "https://therevopscollective.com",
+      "who": "Rosalyn Santa Elena, solo RevOps advisor",
+      "take": "First-person CTA copy the buyer says to themselves",
+      "leave": "No prices, cases or availability",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Freelance automation and RevOps"
+    },
+    {
+      "name": "RevOps On-Demand",
+      "url": "https://www.revopson-demand.com",
+      "who": "Nicholas Gollop, revenue operations advisor",
+      "take": "Before/after tiles: demo-to-close 30%→40%, order-to-cash 75% faster",
+      "leave": "No prices; four vague tiers",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Freelance automation and RevOps"
+    },
+    {
+      "name": "Bosio Digital",
+      "url": "https://bosio.digital",
+      "who": "Two-person automation and design shop",
+      "take": "\"From $25K · founder-led\" — price anchored to who does the work",
+      "leave": "Soft CTA; testimonials carry no numbers",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Freelance automation and RevOps"
+    },
+    {
+      "name": "Automation Transformation",
+      "url": "https://automationtransformationconsulting.com",
+      "who": "James Perkins, founder-led automation consultant",
+      "take": "Rate card from hourly to fractional-CAIO monthly, all public",
+      "leave": "\"Ours don't fail\" is a boast, not a guarantee",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Freelance automation and RevOps"
+    },
+    {
+      "name": "Dan Cumberland Labs",
+      "url": "https://dancumberlandlabs.com",
+      "who": "Dan Cumberland, solo AI implementation consultant",
+      "take": "90-day ROI guarantee: regain 10 hours a month or the work continues free",
+      "leave": "No published prices; four fuzzy tiers",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Freelance automation and RevOps"
+    },
+    {
+      "name": "Designjoy",
+      "url": "https://www.designjoy.co",
+      "who": "Brett Williams, one-man productised design subscription",
+      "take": "One price, one request at a time, 48-hour average, refund window",
+      "leave": "Logos only; zero case studies with numbers",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Freelance automation and RevOps"
+    },
+    {
+      "name": "Colie James",
+      "url": "https://coliejames.com",
+      "who": "Solo Dubsado systems specialist",
+      "take": "VIP Day model with published price and honest \"6-8 weeks out\" availability",
+      "leave": "Jokey CTAs suit one niche only",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Freelance automation and RevOps"
+    },
+    {
+      "name": "Ema Katiraee",
+      "url": "https://www.emakatiraee.com",
+      "who": "Solo Dubsado and HoneyBook specialist",
+      "take": "Fixed setup price, one-week build, split payment, 30 days support",
+      "leave": "Testimonials with no numbers; no guarantee",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Freelance automation and RevOps"
+    },
+    {
+      "name": "Cheryl Rerick",
+      "url": "https://cherylrerick.com",
+      "who": "Solo Keap email automation consultant",
+      "take": "VIP day with a published price and a stated monthly capacity",
+      "leave": "No case studies or guarantee; application friction",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Freelance automation and RevOps"
+    },
+    {
+      "name": "Your Personal Tech Fairy",
+      "url": "https://yourpersonaltechfairy.com",
+      "who": "Bev Feldman, solo email automation consultant",
+      "take": "Paid roadmap required before builds, fee credited; a cheap power-hour bookable directly",
+      "leave": "Testimonials carry no metrics",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Freelance automation and RevOps"
+    },
+    {
+      "name": "Lishchuk",
+      "url": "https://lishchuk.com",
+      "who": "Aleksandr Lishchuk, solo productised ads operator",
+      "take": "A green or red dot signals whether he's open to work",
+      "leave": "Not automation; case studies lack hard numbers",
+      "last_checked": "2026-09-23",
+      "category": "freelancers",
+      "segment": "Freelance automation and RevOps"
+    },
+    {
+      "name": "Naveen Venkat",
+      "url": "https://naveenvenkat.com",
+      "who": "Research scientist at Runway; site states BITS Pilani 2019",
+      "take": "A highlights timeline as the homepage spine; quick links to research tools",
+      "leave": "Only seven posts; platform chrome dilutes the domain",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "BITS Pilani"
+    },
+    {
+      "name": "Anirudh S Chakravarthy",
+      "url": "https://anirudh-chakravarthy.github.io/",
+      "who": "Amazon AGI Labs; site states BE CS, BITS Pilani",
+      "take": "Papers, projects and jobs each carry logos, abstracts and code links in one scroll",
+      "leave": "Visitor counter from 2022; no recency signal",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "BITS Pilani"
+    },
+    {
+      "name": "Gunjan Chhablani",
+      "url": "https://gchhablani.github.io/",
+      "who": "Georgia Tech MS; site states bachelor's from BITS Goa",
+      "take": "Research template done well: thumbnail per paper with paper, code and site links",
+      "leave": "Resume hidden behind a PDF; no non-publication projects",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "BITS Pilani"
+    },
+    {
+      "name": "Ayush Jain",
+      "url": "https://ayushjain1144.github.io/",
+      "who": "CMU Robotics PhD; site states BE CS, BITS Pilani",
+      "take": "Explicit job-market line and an office-hours offer — availability and generosity",
+      "leave": "Unfiltered publication list; thin interests section",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "BITS Pilani"
+    },
+    {
+      "name": "Nikita Saxena",
+      "url": "https://nikita-0209.github.io/",
+      "who": "Google DeepMind engineer; site says graduated BITS Pilani 2023",
+      "take": "Chronological news log plus service roles; hobbies keep it human",
+      "leave": "No project showcase; publications on a separate page",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "BITS Pilani"
+    },
+    {
+      "name": "Somesh Singh",
+      "url": "https://someshsingh22.github.io/",
+      "who": "Adobe research scientist; site states BITS Pilani undergrad",
+      "take": "News reel mixing paper acceptances with shipped product features",
+      "leave": "Research and awards sections empty; blog unstarted",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "BITS Pilani"
+    },
+    {
+      "name": "Kunal Mohta",
+      "url": "https://kunal-mohta.github.io/",
+      "who": "Apple software engineer; site states BE CS, BITS Pilani",
+      "take": "Projects sorted by intent — websites, backends, personal, coursework",
+      "leave": "No impact metrics; almost no visual hierarchy",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "BITS Pilani"
+    },
+    {
+      "name": "Kundan Singh",
+      "url": "https://kundansingh.com/",
+      "who": "Principal architect; site states BITS Pilani 1993–97",
+      "take": "Twenty-year archive: 50+ projects, papers, talks, three resume lengths",
+      "leave": "Overwhelming density; many projects marked TBD",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "BITS Pilani"
+    },
+    {
+      "name": "Rajeev Singh Naruka",
+      "url": "https://rajeevnaruka.com/",
+      "who": "Product engineer at Typefully; site states CS, BITS Pilani",
+      "take": "Taste-first positioning and a short honest career arc",
+      "leave": "Thin homepage; blog and projects barely populated",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "BITS Pilani"
+    },
+    {
+      "name": "Nitin Kishore Sai Samala",
+      "url": "https://snknitin.github.io/",
+      "who": "Staff data scientist; site calls him a BITSian",
+      "take": "Eleven sections covering talks, courses and hobbies; a diagram makes positioning concrete",
+      "leave": "Mostly outbound links; vague polymath language",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "BITS Pilani"
+    },
+    {
+      "name": "Sri Krishna",
+      "url": "https://skrish13.github.io/",
+      "who": "AI founder, ex-ParallelDots; site says undergrad at BITS Goa",
+      "take": "Products carry real usage numbers alongside conference papers",
+      "leave": "Dense blocks, undated posts, underbuilt sections",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "BITS Pilani"
+    },
+    {
+      "name": "Aman Kedia",
+      "url": "https://amankedia.github.io/",
+      "who": "Oracle developer, BITS guest faculty; site states M.Tech BITS",
+      "take": "Embedded demo videos per project; skills split research versus technical",
+      "leave": "Dense text, inconsistent dates, some dead links",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "BITS Pilani"
+    },
+    {
+      "name": "Hardik Shah",
+      "url": "https://hardik01shah.github.io/",
+      "who": "Robotics engineer, ETH MSc; site states BITS Goa undergrad",
+      "take": "Reverse-chronological roles with a paper or repo attached to each",
+      "leave": "No publications page; interests feel bolted on",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "BITS Pilani"
+    },
+    {
+      "name": "Suhrudh Sarathy",
+      "url": "https://suhrudhsarathy.github.io/",
+      "who": "Robotics engineer; site says early-graduated from BITS Goa",
+      "take": "Undergrad thesis presented as real research; writing treated as first-class",
+      "leave": "Homepage previews nothing; current work hidden",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "BITS Pilani"
+    },
+    {
+      "name": "Siddharth Gupta",
+      "url": "https://guptasid.bitbucket.io/",
+      "who": "BITS Goa assistant professor; site states his BITS Goa bachelor's",
+      "take": "Publications 2014–2026 with links and best-paper flags; a personal aside adds character",
+      "leave": "No teaching or news pages; dated URL",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "BITS Pilani"
+    },
+    {
+      "name": "Sampanna Kahu",
+      "url": "https://sampannakahu.github.io/",
+      "who": "Google software engineer; site states BE EEE, BITS Pilani",
+      "take": "Eleven projects in a scannable table plus a clickable gallery",
+      "leave": "No dates on projects; low contrast",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "BITS Pilani"
+    },
+    {
+      "name": "Priyesh Srivastava",
+      "url": "https://never2average.github.io/",
+      "who": "Full-stack and data engineer; site states BITS Goa CS",
+      "take": "Data-science and development projects split into separate tracks",
+      "leave": "Placeholder images; broken contact form",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "BITS Pilani"
+    },
+    {
+      "name": "Chirag Singhal",
+      "url": "https://chirag-singhal.github.io/",
+      "who": "Engineer at Indeed; site states CS, BITS Pilani",
+      "take": "Selection-rate framing plus eight projects with screenshots and live links",
+      "leave": "One-line descriptions; no outcomes",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "BITS Pilani"
+    },
+    {
+      "name": "Nitish Bahl",
+      "url": "https://bahl24.github.io/",
+      "who": "Senior SDE at Eightfold AI; site states BE EEE, BITS Pilani",
+      "take": "Open-source programme logos earn trust fast; exact tools named per project",
+      "leave": "Bio still says \"prefinal year student\"",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "BITS Pilani"
+    },
+    {
+      "name": "Shreyas Athreya",
+      "url": "https://shreyas-athreya.pages.dev/",
+      "who": "Ex-Amazon engineer; site states BITS Goa 2024",
+      "take": "Keyboard navigation and a Lab section go beyond the usual portfolio",
+      "leave": "Homepage previews no work; no call to action",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "BITS Pilani"
+    },
+    {
+      "name": "Vishwas Puri",
+      "url": "https://www.vishwaspuri.tech/",
+      "who": "Amazon SDE II; site states BE and MSc, BITS Pilani",
+      "take": "Numbered sections and hard metrics like 96% autonomous resolution",
+      "leave": "Projects lack demos and why-this-matters framing",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "BITS Pilani"
+    },
+    {
+      "name": "Deep Vyas",
+      "url": "https://deepvyas.github.io/",
+      "who": "Engineer at Stripe; site names BITS Pilani",
+      "take": "Tight three-item nav; employer names do the credentialing",
+      "leave": "No work samples on the homepage",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "BITS Pilani"
+    },
+    {
+      "name": "Sarwesh Shah",
+      "url": "https://sarweshshah.me/",
+      "who": "AI/UX designer; BITS Pilani 2017 stated in GitHub bio",
+      "take": "Work split into product, staged experiences and research, each status-tagged",
+      "leave": "No filtering across a broad portfolio",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "BITS Pilani"
+    },
+    {
+      "name": "Amey Agrawal",
+      "url": "https://ameya.info/",
+      "who": "LLM-systems PhD, Georgia Tech; BITS stated in GitHub bio",
+      "take": "Terminal-style aesthetic; four flagship systems surfaced above the publications",
+      "leave": "Dense publication wall; blog never showcased",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "BITS Pilani"
+    },
+    {
+      "name": "Rishikesh Vanarse",
+      "url": "https://rmvanarse.github.io/",
+      "who": "Computer-vision engineer; BITS Goa in GitHub bio",
+      "take": "An employer and university logo strip reads as an instant credibility bar",
+      "leave": "Logos carry no captions; no recent-work section",
+      "last_checked": "2026-09-23",
+      "category": "alumni",
+      "segment": "BITS Pilani"
     }
   ]
 }
