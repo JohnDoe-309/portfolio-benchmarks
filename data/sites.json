@@ -6,341 +6,341 @@
       "name": "bruno-simon.com",
       "url": "https://bruno-simon.com",
       "who": "Creative dev",
-      "alum_confirmed": false,
-      "category": "Craft showpieces",
+      "category": "top",
       "last_checked": "2026-09-22",
       "take": "A single idea executed past the point of doubt: you drive a car through the portfolio",
-      "leave": "Load cost and zero scanability for a hiring reader"
+      "leave": "Load cost and zero scanability for a hiring reader",
+      "segment": "Craft showpieces"
     },
     {
       "name": "henryheffernan.com",
       "url": "https://www.henryheffernan.com",
       "who": "3D web dev",
-      "alum_confirmed": false,
-      "category": "Craft showpieces",
+      "category": "top",
       "last_checked": "2026-09-22",
       "take": "The whole site runs on a 3D retro computer; the concept *is* the proof",
-      "leave": "Same: no fast path to the work"
+      "leave": "Same: no fast path to the work",
+      "segment": "Craft showpieces"
     },
     {
       "name": "dennissnellenberg.com",
       "url": "https://dennissnellenberg.com",
       "who": "Designer",
-      "alum_confirmed": false,
-      "category": "Craft showpieces",
+      "category": "top",
       "last_checked": "2026-09-22",
       "take": "Motion as continuity between sections",
-      "leave": "Long transitions delay content"
+      "leave": "Long transitions delay content",
+      "segment": "Craft showpieces"
     },
     {
       "name": "aristidebenoist.com",
       "url": "https://www.aristidebenoist.com",
       "who": "Creative dev",
-      "alum_confirmed": false,
-      "category": "Craft showpieces",
+      "category": "top",
       "last_checked": "2026-09-22",
       "take": "WebGL transitions that keep type readable",
-      "leave": "Little plain-text proof"
+      "leave": "Little plain-text proof",
+      "segment": "Craft showpieces"
     },
     {
       "name": "lynnandtonic.com",
       "url": "https://lynnandtonic.com",
       "who": "Front-end dev",
-      "alum_confirmed": false,
-      "category": "Craft showpieces",
+      "category": "top",
       "last_checked": "2026-09-22",
       "take": "Redesigned yearly; the redesigns themselves became the portfolio",
-      "leave": "Hard to maintain"
+      "leave": "Hard to maintain",
+      "segment": "Craft showpieces"
     },
     {
       "name": "jhey.dev",
       "url": "https://jhey.dev",
       "who": "CSS specialist",
-      "alum_confirmed": false,
-      "category": "Craft showpieces",
+      "category": "top",
       "last_checked": "2026-09-22",
       "take": "Demos double as teaching material",
-      "leave": "Density can overwhelm"
+      "leave": "Density can overwhelm",
+      "segment": "Craft showpieces"
     },
     {
       "name": "cassie.codes",
       "url": "https://www.cassie.codes",
       "who": "SVG/animation dev",
-      "alum_confirmed": false,
-      "category": "Craft showpieces",
+      "category": "top",
       "last_checked": "2026-09-22",
       "take": "Animation explained, not just performed",
-      "leave": null
+      "leave": null,
+      "segment": "Craft showpieces"
     },
     {
       "name": "rauno.me",
       "url": "https://rauno.me",
       "who": "Design engineer, Vercel",
-      "alum_confirmed": false,
-      "category": "Design engineers",
+      "category": "top",
       "last_checked": "2026-09-22",
       "take": "Interaction detail as the whole personality; craft notes alongside work",
-      "leave": "No ask at all"
+      "leave": "No ask at all",
+      "segment": "Design engineers"
     },
     {
       "name": "emilkowal.ski",
       "url": "https://emilkowal.ski",
       "who": "Design engineer",
-      "alum_confirmed": false,
-      "category": "Design engineers",
+      "category": "top",
       "last_checked": "2026-09-22",
       "take": "Ships libraries people use, which is proof that needs no claim",
-      "leave": "A countdown banner reads as a funnel"
+      "leave": "A countdown banner reads as a funnel",
+      "segment": "Design engineers"
     },
     {
       "name": "paco.me",
       "url": "https://paco.me",
       "who": "Designer/engineer",
-      "alum_confirmed": false,
-      "category": "Design engineers",
+      "category": "top",
       "last_checked": "2026-09-22",
       "take": "Restraint; every line earns its place",
-      "leave": "Contact is an afterthought"
+      "leave": "Contact is an afterthought",
+      "segment": "Design engineers"
     },
     {
       "name": "joshwcomeau.com",
       "url": "https://www.joshwcomeau.com",
       "who": "Educator",
-      "alum_confirmed": false,
-      "category": "Design engineers",
+      "category": "top",
       "last_checked": "2026-09-22",
       "take": "Interactive explanations that make the skill undeniable",
-      "leave": "Heavy to build"
+      "leave": "Heavy to build",
+      "segment": "Design engineers"
     },
     {
       "name": "brittanychiang.com",
       "url": "https://brittanychiang.com",
       "who": "Software engineer",
-      "alum_confirmed": false,
-      "category": "Design engineers",
+      "category": "top",
       "last_checked": "2026-09-22",
       "take": "The most-copied dev layout: sticky intro, scroll-linked experience list",
-      "leave": "Cloned so often it now reads as a template"
+      "leave": "Cloned so often it now reads as a template",
+      "segment": "Design engineers"
     },
     {
       "name": "levels.io",
       "url": "https://levels.io",
       "who": "Indie maker",
-      "alum_confirmed": false,
-      "category": "Proof of work",
+      "category": "top",
       "last_checked": "2026-09-22",
-      "take": "Live revenue per product \u2014 proof nobody can dispute; the ask repeats",
-      "leave": "Tone is personal brand, not service"
+      "take": "Live revenue per product — proof nobody can dispute; the ask repeats",
+      "leave": "Tone is personal brand, not service",
+      "segment": "Proof of work"
     },
     {
       "name": "marclou.com",
       "url": "https://marclou.com",
       "who": "Indie maker",
-      "alum_confirmed": false,
-      "category": "Proof of work",
+      "category": "top",
       "last_checked": "2026-09-22",
       "take": "Projects listed with what each one earns",
-      "leave": "Same"
+      "leave": "Same",
+      "segment": "Proof of work"
     },
     {
       "name": "simonwillison.net",
       "url": "https://simonwillison.net",
       "who": "Engineer/writer",
-      "alum_confirmed": false,
-      "category": "Proof of work",
+      "category": "top",
       "last_checked": "2026-09-22",
       "take": "Daily public work becomes an unfakeable record",
-      "leave": "Requires real cadence"
+      "leave": "Requires real cadence",
+      "segment": "Proof of work"
     },
     {
       "name": "thesephist.com",
       "url": "https://thesephist.com",
       "who": "Researcher",
-      "alum_confirmed": false,
-      "category": "Proof of work",
+      "category": "top",
       "last_checked": "2026-09-22",
       "take": "Dense project index; every idea has an artefact",
-      "leave": "No ask"
+      "leave": "No ask",
+      "segment": "Proof of work"
     },
     {
       "name": "leerob.com",
       "url": "https://leerob.com",
       "who": "Engineer, ex-Vercel",
-      "alum_confirmed": false,
-      "category": "Proof of work",
+      "category": "top",
       "last_checked": "2026-09-22",
       "take": "Fast, plain, writing-led",
-      "leave": "Contact buried in prose"
+      "leave": "Contact buried in prose",
+      "segment": "Proof of work"
     },
     {
       "name": "joshlambsystems.com",
       "url": "https://joshlambsystems.com",
       "who": "AI systems consultant",
-      "alum_confirmed": false,
-      "category": "Consultants who sell",
+      "category": "freelancers",
       "last_checked": "2026-09-22",
       "take": "Calendar as primary CTA; a published flat fee; a money-back guarantee tied to a concrete finding; a six-question FAQ that handles objections before the call",
-      "leave": "Heavy logo wall of employers-as-clients"
+      "leave": "Heavy logo wall of employers-as-clients",
+      "segment": "Fractional executives"
     },
     {
       "name": "kamyarshah.com",
       "url": "https://kamyarshah.com",
       "who": "Fractional COO",
-      "alum_confirmed": false,
-      "category": "Consultants who sell",
+      "category": "freelancers",
       "last_checked": "2026-09-22",
       "take": "\"Book a 20-minute operations review\"; public rate benchmarks that qualify the buyer",
-      "leave": "Content-farm volume dilutes the offer"
+      "leave": "Content-farm volume dilutes the offer",
+      "segment": "Fractional executives"
     },
     {
       "name": "asamby.com",
       "url": "https://asamby.com",
       "who": "Ops consultancy",
-      "alum_confirmed": false,
-      "category": "Consultants who sell",
+      "category": "freelancers",
       "last_checked": "2026-09-22",
       "take": "Free discovery call, productised offers",
-      "leave": "Agency gloss, little individual proof"
+      "leave": "Agency gloss, little individual proof",
+      "segment": "Fractional executives"
     },
     {
       "name": "manassaloi.com/proofofwork",
       "url": "https://manassaloi.com/proofofwork/",
-      "who": "BITS Pilani; engineer \u2192 Head of Product",
-      "alum_confirmed": true,
-      "category": "Indian engineering alumni",
+      "who": "BITS Pilani; engineer → Head of Product",
+      "category": "alumni",
       "last_checked": "2026-09-22",
       "take": "A standalone **Proof of Work ledger**: per company, reverse chronological, hard numbers (\"1 to 4 million installs in under a year\") with press links",
-      "leave": "~2,500 words ending in no ask at all"
+      "leave": "~2,500 words ending in no ask at all",
+      "segment": "Indian engineering alumni"
     },
     {
       "name": "s-anand.net",
       "url": "https://s-anand.net",
       "who": "IIT Madras + IIM-B; Gramener co-founder",
-      "alum_confirmed": true,
-      "category": "Indian engineering alumni",
+      "category": "alumni",
       "last_checked": "2026-09-22",
       "take": "Identity as a one-line stack, plus a **\"Working With Me\"** block that routes speak / advise / project",
-      "leave": "1,800+ posts with no curation; the archive buries the offer"
+      "leave": "1,800+ posts with no curation; the archive buries the offer",
+      "segment": "Indian engineering alumni"
     },
     {
       "name": "labnol.org/about",
       "url": "https://labnol.org/about",
       "who": "IIT Roorkee; solo operator",
-      "alum_confirmed": true,
-      "category": "Indian engineering alumni",
+      "category": "alumni",
       "last_checked": "2026-09-22",
       "take": "Proof by scale and named clients (50M+ installs; Airbus, LinkedIn, Disney) plus third-party awards",
-      "leave": "An award wall with no per-engagement numbers"
+      "leave": "An award wall with no per-engagement numbers",
+      "segment": "Indian engineering alumni"
     },
     {
       "name": "nirantk.com",
       "url": "https://nirantk.com",
       "who": "AI engineer; fractional agent evaluation",
-      "alum_confirmed": false,
-      "category": "Indian engineering alumni",
+      "category": "alumni",
       "last_checked": "2026-09-22",
       "take": "Proof by dependency (\"3,000+ repositories depend on FastEmbed\"); the CTA promises \"Direct access. Asynchronous communication. No sales calls\"",
-      "leave": "Client logos with no case studies; the personal site has no ask"
+      "leave": "Client logos with no case studies; the personal site has no ask",
+      "segment": "Indian engineering alumni"
     },
     {
       "name": "invertedpassion.com",
       "url": "https://invertedpassion.com",
       "who": "Founder, Wingify/VWO",
-      "alum_confirmed": false,
-      "category": "Indian engineering alumni",
+      "category": "alumni",
       "last_checked": "2026-09-22",
       "take": "A \"Start here\" path through a 20-year archive",
-      "leave": "Essays-only identity: a buyer can't tell what he'd do for them"
+      "leave": "Essays-only identity: a buyer can't tell what he'd do for them",
+      "segment": "Indian engineering alumni"
     },
     {
       "name": "arpitbhayani.me",
       "url": "https://arpitbhayani.me",
       "who": "Systems engineer and educator",
-      "alum_confirmed": false,
-      "category": "Indian engineering alumni",
+      "category": "alumni",
       "last_checked": "2026-09-22",
       "take": "**Counted inventory above the fold**: 111 blogs, 673 notes, 268 videos, 7 projects. Volume as proof, with a paid CTA",
-      "leave": "Follower counts as social proof"
+      "leave": "Follower counts as social proof",
+      "segment": "Indian engineering alumni"
     },
     {
       "name": "nadh.in",
       "url": "https://nadh.in",
       "who": "CTO, Zerodha",
-      "alum_confirmed": false,
-      "category": "Indian engineering alumni",
+      "category": "alumni",
       "last_checked": "2026-09-22",
       "take": "Radical understatement: \"a hobbyist software developer and a tinkerer\"",
-      "leave": "Only works when the job title is the proof"
+      "leave": "Only works when the job title is the proof",
+      "segment": "Indian engineering alumni"
     },
     {
       "name": "sayan-11.github.io",
       "url": "https://sayan-11.github.io",
       "who": "BITS Pilani Hyderabad; PM intern",
-      "alum_confirmed": true,
-      "category": "Indian engineering alumni",
+      "category": "alumni",
       "last_checked": "2026-09-22",
       "take": "A plain timeline of shipped things",
-      "leave": "Student-grade, no numbers"
+      "leave": "Student-grade, no numbers",
+      "segment": "Indian engineering alumni"
     },
     {
       "name": "csswizardry.com/case-studies/iso-org",
       "url": "https://csswizardry.com/case-studies/iso-org/",
       "who": "Solo web-performance consultant",
-      "alum_confirmed": false,
-      "category": "Public engagement retrospectives",
+      "category": "peers",
       "last_checked": "2026-09-22",
-      "take": "~1,200 words: method before results, one scannable metric block (LCP 2.8s\u21922.0s, CLS 0.18\u21920.01), closes with a call booking",
-      "leave": "No \"what I'd do differently\"; one-sidedly triumphant"
+      "take": "~1,200 words: method before results, one scannable metric block (LCP 2.8s→2.0s, CLS 0.18→0.01), closes with a call booking",
+      "leave": "No \"what I'd do differently\"; one-sidedly triumphant",
+      "segment": "Public retrospectives"
     },
     {
       "name": "3perf.com/blog/notion",
       "url": "https://3perf.com/blog/notion/",
       "who": "Solo performance consultant",
-      "alum_confirmed": false,
-      "category": "Public engagement retrospectives",
+      "category": "peers",
       "last_checked": "2026-09-22",
       "take": "An **unsolicited teardown** of a company he doesn't work for: real numbers, no permission needed",
-      "leave": "4,500 words converting nothing but a share button"
+      "leave": "4,500 words converting nothing but a share button",
+      "segment": "Public retrospectives"
     },
     {
       "name": "speedshop.co",
       "url": "https://speedshop.co/blog/performance-lessons-from-ao3/",
       "who": "Solo Rails performance consultant",
-      "alum_confirmed": false,
-      "category": "Public engagement retrospectives",
+      "category": "peers",
       "last_checked": "2026-09-22",
       "take": "Publishes the **actual retainer deliverable** with consent, organised by outcome rather than chronology",
-      "leave": "No CTA at all on his most credible asset"
+      "leave": "No CTA at all on his most credible asset",
+      "segment": "Public retrospectives"
     },
     {
       "name": "erwinhofman.com",
       "url": "https://erwinhofman.com/blog/how-ditching-pwa-helped-improving-pagespeed-and-ux/",
       "who": "Independent speed consultant",
-      "alum_confirmed": false,
-      "category": "Public engagement retrospectives",
+      "category": "peers",
       "last_checked": "2026-09-22",
       "take": "Field data beside lab scores; a section that pre-empts the obvious objection",
-      "leave": "Names the incumbent agency: reputational risk"
+      "leave": "Names the incumbent agency: reputational risk",
+      "segment": "Public retrospectives"
     },
     {
       "name": "adamj.eu",
       "url": "https://adamj.eu/tech/2019/07/15/djangos-test-case-classes-and-a-three-times-speed-up/",
       "who": "Solo Django consultant",
-      "alum_confirmed": false,
-      "category": "Public engagement retrospectives",
+      "category": "peers",
       "last_checked": "2026-09-22",
-      "take": "Teach first, prove second, one unmissable number (375s\u2192120s)",
-      "leave": "Three stacked CTAs dilute the action"
+      "take": "Teach first, prove second, one unmissable number (375s→120s)",
+      "leave": "Three stacked CTAs dilute the action",
+      "segment": "Public retrospectives"
     },
     {
       "name": "xray.tech/case-study/72point",
       "url": "https://xray.tech/case-study/72point",
       "who": "Workflow-automation consultancy",
-      "alum_confirmed": false,
-      "category": "Public engagement retrospectives",
+      "category": "peers",
       "last_checked": "2026-09-22",
       "take": "Discloses **running cost** (<$100/month) against 2,500+ hours saved, so the return is self-evident",
-      "leave": "650 words of template: no constraints or failure modes"
+      "leave": "650 words of template: no constraints or failure modes",
+      "segment": "Public retrospectives"
     }
   ]
 }

@@ -16,81 +16,98 @@ Sites are re-checked as the list grows; the date column is when the page last re
 | Qualification | Price, scope, availability, guarantees: what filters the wrong buyer before the call |
 | Return | Any reason to come back (writing, changelog, live data) |
 
-## Craft showpieces
+<!-- BEGIN:tables -->
+_34 sites, all fetched and confirmed loading on the date in each row._
 
-The visual bar. None of them sells a service, so copy the execution, not the structure.
 
-| Site | Who | Live | Take | Leave |
+## Top personal portfolios · 17
+
+
+### Craft showpieces
+
+
+| Site | Who | Take | Leave | Checked |
 |---|---|---|---|---|
-| [bruno-simon.com](https://bruno-simon.com) | Creative dev | 2026-09-22 | A single idea executed past the point of doubt: you drive a car through the portfolio | Load cost and zero scanability for a hiring reader |
-| [henryheffernan.com](https://www.henryheffernan.com) | 3D web dev | 2026-09-22 | The whole site runs on a 3D retro computer; the concept *is* the proof | Same: no fast path to the work |
-| [dennissnellenberg.com](https://dennissnellenberg.com) | Designer | 2026-09-22 | Motion as continuity between sections | Long transitions delay content |
-| [aristidebenoist.com](https://www.aristidebenoist.com) | Creative dev | 2026-09-22 | WebGL transitions that keep type readable | Little plain-text proof |
-| [lynnandtonic.com](https://lynnandtonic.com) | Front-end dev | 2026-09-22 | Redesigned yearly; the redesigns themselves became the portfolio | Hard to maintain |
-| [jhey.dev](https://jhey.dev) | CSS specialist | 2026-09-22 | Demos double as teaching material | Density can overwhelm |
-| [cassie.codes](https://www.cassie.codes) | SVG/animation dev | 2026-09-22 | Animation explained, not just performed | — |
+| [aristidebenoist.com](https://www.aristidebenoist.com) | Creative dev | WebGL transitions that keep type readable | Little plain-text proof | 2026-09-22 |
+| [bruno-simon.com](https://bruno-simon.com) | Creative dev | A single idea executed past the point of doubt: you drive a car through the portfolio | Load cost and zero scanability for a hiring reader | 2026-09-22 |
+| [cassie.codes](https://www.cassie.codes) | SVG/animation dev | Animation explained, not just performed | — | 2026-09-22 |
+| [dennissnellenberg.com](https://dennissnellenberg.com) | Designer | Motion as continuity between sections | Long transitions delay content | 2026-09-22 |
+| [henryheffernan.com](https://www.henryheffernan.com) | 3D web dev | The whole site runs on a 3D retro computer; the concept *is* the proof | Same: no fast path to the work | 2026-09-22 |
+| [jhey.dev](https://jhey.dev) | CSS specialist | Demos double as teaching material | Density can overwhelm | 2026-09-22 |
+| [lynnandtonic.com](https://lynnandtonic.com) | Front-end dev | Redesigned yearly; the redesigns themselves became the portfolio | Hard to maintain | 2026-09-22 |
 
-## Design engineers
 
-| Site | Who | Live | Take | Leave |
+### Design engineers
+
+
+| Site | Who | Take | Leave | Checked |
 |---|---|---|---|---|
-| [rauno.me](https://rauno.me) | Design engineer, Vercel | 2026-09-22 | Interaction detail as the whole personality; craft notes alongside work | No ask at all |
-| [emilkowal.ski](https://emilkowal.ski) | Design engineer | 2026-09-22 | Ships libraries people use, which is proof that needs no claim | A countdown banner reads as a funnel |
-| [paco.me](https://paco.me) | Designer/engineer | 2026-09-22 | Restraint; every line earns its place | Contact is an afterthought |
-| [joshwcomeau.com](https://www.joshwcomeau.com) | Educator | 2026-09-22 | Interactive explanations that make the skill undeniable | Heavy to build |
-| [brittanychiang.com](https://brittanychiang.com) | Software engineer | 2026-09-22 | The most-copied dev layout: sticky intro, scroll-linked experience list | Cloned so often it now reads as a template |
+| [brittanychiang.com](https://brittanychiang.com) | Software engineer | The most-copied dev layout: sticky intro, scroll-linked experience list | Cloned so often it now reads as a template | 2026-09-22 |
+| [emilkowal.ski](https://emilkowal.ski) | Design engineer | Ships libraries people use, which is proof that needs no claim | A countdown banner reads as a funnel | 2026-09-22 |
+| [joshwcomeau.com](https://www.joshwcomeau.com) | Educator | Interactive explanations that make the skill undeniable | Heavy to build | 2026-09-22 |
+| [paco.me](https://paco.me) | Designer/engineer | Restraint; every line earns its place | Contact is an afterthought | 2026-09-22 |
+| [rauno.me](https://rauno.me) | Design engineer, Vercel | Interaction detail as the whole personality; craft notes alongside work | No ask at all | 2026-09-22 |
 
-## Proof of work
 
-The closest model for an independent operator: publish evidence, repeatedly.
+### Proof of work
 
-| Site | Who | Live | Take | Leave |
+
+| Site | Who | Take | Leave | Checked |
 |---|---|---|---|---|
-| [levels.io](https://levels.io) | Indie maker | 2026-09-22 | Live revenue per product — proof nobody can dispute; the ask repeats | Tone is personal brand, not service |
-| [marclou.com](https://marclou.com) | Indie maker | 2026-09-22 | Projects listed with what each one earns | Same |
-| [simonwillison.net](https://simonwillison.net) | Engineer/writer | 2026-09-22 | Daily public work becomes an unfakeable record | Requires real cadence |
-| [thesephist.com](https://thesephist.com) | Researcher | 2026-09-22 | Dense project index; every idea has an artefact | No ask |
-| [leerob.com](https://leerob.com) | Engineer, ex-Vercel | 2026-09-22 | Fast, plain, writing-led | Contact buried in prose |
+| [leerob.com](https://leerob.com) | Engineer, ex-Vercel | Fast, plain, writing-led | Contact buried in prose | 2026-09-22 |
+| [levels.io](https://levels.io) | Indie maker | Live revenue per product — proof nobody can dispute; the ask repeats | Tone is personal brand, not service | 2026-09-22 |
+| [marclou.com](https://marclou.com) | Indie maker | Projects listed with what each one earns | Same | 2026-09-22 |
+| [simonwillison.net](https://simonwillison.net) | Engineer/writer | Daily public work becomes an unfakeable record | Requires real cadence | 2026-09-22 |
+| [thesephist.com](https://thesephist.com) | Researcher | Dense project index; every idea has an artefact | No ask | 2026-09-22 |
 
-## Consultants who sell
 
-Where the conversion patterns actually come from.
+## Operators, PMs and builders like me · 6
 
-| Site | Who | Live | Take | Leave |
+
+### Public retrospectives
+
+
+| Site | Who | Take | Leave | Checked |
 |---|---|---|---|---|
-| [joshlambsystems.com](https://joshlambsystems.com) | AI systems consultant | 2026-09-22 | Calendar as primary CTA; a published flat fee; a money-back guarantee tied to a concrete finding; a six-question FAQ that handles objections before the call | Heavy logo wall of employers-as-clients |
-| [kamyarshah.com](https://kamyarshah.com) | Fractional COO | 2026-09-22 | "Book a 20-minute operations review"; public rate benchmarks that qualify the buyer | Content-farm volume dilutes the offer |
-| [asamby.com](https://asamby.com) | Ops consultancy | 2026-09-22 | Free discovery call, productised offers | Agency gloss, little individual proof |
+| [3perf.com/blog/notion](https://3perf.com/blog/notion/) | Solo performance consultant | An **unsolicited teardown** of a company he doesn't work for: real numbers, no permission needed | 4,500 words converting nothing but a share button | 2026-09-22 |
+| [adamj.eu](https://adamj.eu/tech/2019/07/15/djangos-test-case-classes-and-a-three-times-speed-up/) | Solo Django consultant | Teach first, prove second, one unmissable number (375s→120s) | Three stacked CTAs dilute the action | 2026-09-22 |
+| [csswizardry.com/case-studies/iso-org](https://csswizardry.com/case-studies/iso-org/) | Solo web-performance consultant | ~1,200 words: method before results, one scannable metric block (LCP 2.8s→2.0s, CLS 0.18→0.01), closes with a call booking | No "what I'd do differently"; one-sidedly triumphant | 2026-09-22 |
+| [erwinhofman.com](https://erwinhofman.com/blog/how-ditching-pwa-helped-improving-pagespeed-and-ux/) | Independent speed consultant | Field data beside lab scores; a section that pre-empts the obvious objection | Names the incumbent agency: reputational risk | 2026-09-22 |
+| [speedshop.co](https://speedshop.co/blog/performance-lessons-from-ao3/) | Solo Rails performance consultant | Publishes the **actual retainer deliverable** with consent, organised by outcome rather than chronology | No CTA at all on his most credible asset | 2026-09-22 |
+| [xray.tech/case-study/72point](https://xray.tech/case-study/72point) | Workflow-automation consultancy | Discloses **running cost** (<$100/month) against 2,500+ hours saved, so the return is self-evident | 650 words of template: no constraints or failure modes | 2026-09-22 |
 
-## Indian engineering alumni
 
-The honest finding: the strict intersection of BITS/IIT, product or operator work, and a real personal
-site is **thin**. Most Indian PMs live on LinkedIn. Confirmed alumni marked ✓.
+## Freelancers and fractional consultants · 3
 
-| Site | Who | Live | Take | Leave |
+
+### Fractional executives
+
+
+| Site | Who | Take | Leave | Checked |
 |---|---|---|---|---|
-| [manassaloi.com/proofofwork](https://manassaloi.com/proofofwork/) | ✓ BITS Pilani; engineer → Head of Product | 2026-09-22 | A standalone **Proof of Work ledger**: per company, reverse chronological, hard numbers ("1 to 4 million installs in under a year") with press links | ~2,500 words ending in no ask at all |
-| [s-anand.net](https://s-anand.net) | ✓ IIT Madras + IIM-B; Gramener co-founder | 2026-09-22 | Identity as a one-line stack, plus a **"Working With Me"** block that routes speak / advise / project | 1,800+ posts with no curation; the archive buries the offer |
-| [labnol.org/about](https://labnol.org/about) | ✓ IIT Roorkee; solo operator | 2026-09-22 | Proof by scale and named clients (50M+ installs; Airbus, LinkedIn, Disney) plus third-party awards | An award wall with no per-engagement numbers |
-| [nirantk.com](https://nirantk.com) · [scaledfocus.com](https://scaledfocus.com) | AI engineer; fractional agent evaluation | 2026-09-22 | Proof by dependency ("3,000+ repositories depend on FastEmbed"); the CTA promises "Direct access. Asynchronous communication. No sales calls" | Client logos with no case studies; the personal site has no ask |
-| [invertedpassion.com](https://invertedpassion.com) | Founder, Wingify/VWO | 2026-09-22 | A "Start here" path through a 20-year archive | Essays-only identity: a buyer can't tell what he'd do for them |
-| [arpitbhayani.me](https://arpitbhayani.me) | Systems engineer and educator | 2026-09-22 | **Counted inventory above the fold**: 111 blogs, 673 notes, 268 videos, 7 projects. Volume as proof, with a paid CTA | Follower counts as social proof |
-| [nadh.in](https://nadh.in) | CTO, Zerodha | 2026-09-22 | Radical understatement: "a hobbyist software developer and a tinkerer" | Only works when the job title is the proof |
-| [sayan-11.github.io](https://sayan-11.github.io) | ✓ BITS Pilani Hyderabad; PM intern | 2026-09-22 | A plain timeline of shipped things | Student-grade, no numbers |
+| [asamby.com](https://asamby.com) | Ops consultancy | Free discovery call, productised offers | Agency gloss, little individual proof | 2026-09-22 |
+| [joshlambsystems.com](https://joshlambsystems.com) | AI systems consultant | Calendar as primary CTA; a published flat fee; a money-back guarantee tied to a concrete finding; a six-question FAQ that handles objections before the call | Heavy logo wall of employers-as-clients | 2026-09-22 |
+| [kamyarshah.com](https://kamyarshah.com) | Fractional COO | "Book a 20-minute operations review"; public rate benchmarks that qualify the buyer | Content-farm volume dilutes the offer | 2026-09-22 |
 
-## Public engagement retrospectives
 
-The format that turns a claim into proof. Every confirmed solo consultant here names the client and
-none discloses a fee — and **length runs inversely to the strength of the ask**.
+## BITS Pilani and IIT alumni · 8
 
-| Site | Who | Live | Take | Leave |
+
+### Indian engineering alumni
+
+
+| Site | Who | Take | Leave | Checked |
 |---|---|---|---|---|
-| [csswizardry.com/case-studies/iso-org](https://csswizardry.com/case-studies/iso-org/) | Solo web-performance consultant | 2026-09-22 | ~1,200 words: method before results, one scannable metric block (LCP 2.8s→2.0s, CLS 0.18→0.01), closes with a call booking | No "what I'd do differently"; one-sidedly triumphant |
-| [3perf.com/blog/notion](https://3perf.com/blog/notion/) | Solo performance consultant | 2026-09-22 | An **unsolicited teardown** of a company he doesn't work for: real numbers, no permission needed | 4,500 words converting nothing but a share button |
-| [speedshop.co](https://speedshop.co/blog/performance-lessons-from-ao3/) | Solo Rails performance consultant | 2026-09-22 | Publishes the **actual retainer deliverable** with consent, organised by outcome rather than chronology | No CTA at all on his most credible asset |
-| [erwinhofman.com](https://erwinhofman.com/blog/how-ditching-pwa-helped-improving-pagespeed-and-ux/) | Independent speed consultant | 2026-09-22 | Field data beside lab scores; a section that pre-empts the obvious objection | Names the incumbent agency: reputational risk |
-| [adamj.eu](https://adamj.eu/tech/2019/07/15/djangos-test-case-classes-and-a-three-times-speed-up/) | Solo Django consultant | 2026-09-22 | Teach first, prove second, one unmissable number (375s→120s) | Three stacked CTAs dilute the action |
-| [xray.tech/case-study/72point](https://xray.tech/case-study/72point) | Workflow-automation consultancy | 2026-09-22 | Discloses **running cost** (<$100/month) against 2,500+ hours saved, so the return is self-evident | 650 words of template: no constraints or failure modes |
+| [arpitbhayani.me](https://arpitbhayani.me) | Systems engineer and educator | **Counted inventory above the fold**: 111 blogs, 673 notes, 268 videos, 7 projects. Volume as proof, with a paid CTA | Follower counts as social proof | 2026-09-22 |
+| [invertedpassion.com](https://invertedpassion.com) | Founder, Wingify/VWO | A "Start here" path through a 20-year archive | Essays-only identity: a buyer can't tell what he'd do for them | 2026-09-22 |
+| [labnol.org/about](https://labnol.org/about) | IIT Roorkee; solo operator | Proof by scale and named clients (50M+ installs; Airbus, LinkedIn, Disney) plus third-party awards | An award wall with no per-engagement numbers | 2026-09-22 |
+| [manassaloi.com/proofofwork](https://manassaloi.com/proofofwork/) | BITS Pilani; engineer → Head of Product | A standalone **Proof of Work ledger**: per company, reverse chronological, hard numbers ("1 to 4 million installs in under a year") with press links | ~2,500 words ending in no ask at all | 2026-09-22 |
+| [nadh.in](https://nadh.in) | CTO, Zerodha | Radical understatement: "a hobbyist software developer and a tinkerer" | Only works when the job title is the proof | 2026-09-22 |
+| [nirantk.com](https://nirantk.com) | AI engineer; fractional agent evaluation | Proof by dependency ("3,000+ repositories depend on FastEmbed"); the CTA promises "Direct access. Asynchronous communication. No sales calls" | Client logos with no case studies; the personal site has no ask | 2026-09-22 |
+| [s-anand.net](https://s-anand.net) | IIT Madras + IIM-B; Gramener co-founder | Identity as a one-line stack, plus a **"Working With Me"** block that routes speak / advise / project | 1,800+ posts with no curation; the archive buries the offer | 2026-09-22 |
+| [sayan-11.github.io](https://sayan-11.github.io) | BITS Pilani Hyderabad; PM intern | A plain timeline of shipped things | Student-grade, no numbers | 2026-09-22 |
+
+<!-- END:tables -->
 
 ## Does publishing a price help?
 
