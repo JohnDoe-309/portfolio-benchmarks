@@ -385,6 +385,9 @@ grows revenue.
 | 2026-09-22 | Numbers moved above the diagram on phones | 57% of viewing time is above the fold |
 | 2026-09-22 | Case files became linkable, with prev/next and a per-case ask | Retrospectives that end in an ask convert; the strongest assets on other sites end in nothing |
 | 2026-09-22 | "Still open" added to two case files | Not one of the six retrospectives studied admits a limitation; it's the cheapest differentiator available |
+| 2026-09-25 | Proof-of-work ledger shipped at /proof: every result by company, with what it was measured against | The single most copyable idea in the corpus, and the one thing 54 of 58 alumni sites lack |
+| 2026-09-25 | Projects status-tagged (running / prototype / retired) | Status-tagging is free honesty and makes finished things look finished |
+| 2026-09-25 | Each offer names the moment it's the right one | Trigger-based positioning beats capability lists |
 | 2026-09-22 | First long-form retrospective drafted (~1,000 words: method → metric block → what's broken → what I'd do differently → ask) | csswizardry's ~1,200-word shape converts; the 4,500-word ones don't |
 
 ## Still to research
